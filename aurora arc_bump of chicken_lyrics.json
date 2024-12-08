@@ -1,0 +1,1014 @@
+{
+ "_type": "album",
+ "api_path": "/albums/584255",
+ "cover_art_thumbnail_url": "https://images.genius.com/b44c2c3d4d4a3e70ef1b948dca58f1b9.300x300x1.jpg",
+ "cover_art_url": "https://images.genius.com/b44c2c3d4d4a3e70ef1b948dca58f1b9.800x800x1.jpg",
+ "full_title": "Aurora Arc by BUMP OF CHICKEN",
+ "id": 584255,
+ "name": "Aurora Arc",
+ "name_with_artist": "Aurora Arc (artist: BUMP OF CHICKEN)",
+ "primary_artist_names": "BUMP OF CHICKEN",
+ "release_date_components": {
+  "year": 2019,
+  "month": 7,
+  "day": 10
+ },
+ "release_date_for_display": "July 10, 2019",
+ "url": "https://genius.com/albums/Bump-of-chicken/Aurora-arc",
+ "artist": {
+  "_type": "artist",
+  "api_path": "/artists/355179",
+  "header_image_url": "https://images.genius.com/2b7b5ad072c3b5fe08f80b3e9fadac20.1000x424x1.jpg",
+  "id": 355179,
+  "image_url": "https://images.genius.com/4086c848b2ede6ea27cb9da0f99e1275.640x640x1.jpg",
+  "index_character": "b",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "BUMP OF CHICKEN",
+  "slug": "Bump-of-chicken",
+  "url": "https://genius.com/artists/Bump-of-chicken"
+ },
+ "primary_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/355179",
+   "header_image_url": "https://images.genius.com/2b7b5ad072c3b5fe08f80b3e9fadac20.1000x424x1.jpg",
+   "id": 355179,
+   "image_url": "https://images.genius.com/4086c848b2ede6ea27cb9da0f99e1275.640x640x1.jpg",
+   "index_character": "b",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "BUMP OF CHICKEN",
+   "slug": "Bump-of-chicken",
+   "url": "https://genius.com/artists/Bump-of-chicken"
+  }
+ ],
+ "tracks": [
+  {
+   "number": 1,
+   "song": {
+    "_type": "song",
+    "annotation_count": 0,
+    "api_path": "/songs/5147647",
+    "artist_names": "BUMP OF CHICKEN",
+    "full_title": "\u200baurora arc by\u00a0BUMP\u00a0OF CHICKEN",
+    "header_image_thumbnail_url": "https://images.genius.com/b44c2c3d4d4a3e70ef1b948dca58f1b9.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/b44c2c3d4d4a3e70ef1b948dca58f1b9.800x800x1.jpg",
+    "id": 5147647,
+    "instrumental": false,
+    "lyrics_owner_id": 4197937,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1614229318,
+    "path": "/Bump-of-chicken-aurora-arc-lyrics",
+    "primary_artist_names": "BUMP OF CHICKEN",
+    "pyongs_count": null,
+    "relationships_index_url": "https://genius.com/Bump-of-chicken-aurora-arc-sample",
+    "release_date_components": {
+     "year": 2019,
+     "month": 7,
+     "day": 10
+    },
+    "release_date_for_display": "July 10, 2019",
+    "release_date_with_abbreviated_month_for_display": "Jul. 10, 2019",
+    "song_art_image_thumbnail_url": "https://images.genius.com/b44c2c3d4d4a3e70ef1b948dca58f1b9.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/b44c2c3d4d4a3e70ef1b948dca58f1b9.800x800x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 0,
+     "hot": false
+    },
+    "title": "\u200baurora arc",
+    "title_with_featured": "\u200baurora arc",
+    "updated_by_human_at": 1723993676,
+    "url": "https://genius.com/Bump-of-chicken-aurora-arc-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/355179",
+     "header_image_url": "https://images.genius.com/2b7b5ad072c3b5fe08f80b3e9fadac20.1000x424x1.jpg",
+     "id": 355179,
+     "image_url": "https://images.genius.com/4086c848b2ede6ea27cb9da0f99e1275.640x640x1.jpg",
+     "index_character": "b",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "BUMP OF CHICKEN",
+     "slug": "Bump-of-chicken",
+     "url": "https://genius.com/artists/Bump-of-chicken"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/355179",
+      "header_image_url": "https://images.genius.com/2b7b5ad072c3b5fe08f80b3e9fadac20.1000x424x1.jpg",
+      "id": 355179,
+      "image_url": "https://images.genius.com/4086c848b2ede6ea27cb9da0f99e1275.640x640x1.jpg",
+      "index_character": "b",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "BUMP OF CHICKEN",
+      "slug": "Bump-of-chicken",
+      "url": "https://genius.com/artists/Bump-of-chicken"
+     }
+    ],
+    "artist": "BUMP OF CHICKEN",
+    "lyrics": "2 Contributors\u200baurora arc Lyrics\u200bBUMP OF CHICKEN\u300caurora arc\u300d\u6b4c\u8a5e\n\n[\u5668\u697d]You might also likeEmbed"
+   }
+  },
+  {
+   "number": 2,
+   "song": {
+    "_type": "song",
+    "annotation_count": 0,
+    "api_path": "/songs/5103518",
+    "artist_names": "BUMP OF CHICKEN",
+    "full_title": "\u6708\u8679 (Gekkou) by\u00a0BUMP\u00a0OF CHICKEN",
+    "header_image_thumbnail_url": "https://images.genius.com/b44c2c3d4d4a3e70ef1b948dca58f1b9.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/b44c2c3d4d4a3e70ef1b948dca58f1b9.800x800x1.jpg",
+    "id": 5103518,
+    "instrumental": false,
+    "lyrics_owner_id": 4197937,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1602126303,
+    "path": "/Bump-of-chicken-gekkou-lyrics",
+    "primary_artist_names": "BUMP OF CHICKEN",
+    "pyongs_count": null,
+    "relationships_index_url": "https://genius.com/Bump-of-chicken-gekkou-sample",
+    "release_date_components": {
+     "year": 2019,
+     "month": 7,
+     "day": 10
+    },
+    "release_date_for_display": "July 10, 2019",
+    "release_date_with_abbreviated_month_for_display": "Jul. 10, 2019",
+    "song_art_image_thumbnail_url": "https://images.genius.com/b44c2c3d4d4a3e70ef1b948dca58f1b9.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/b44c2c3d4d4a3e70ef1b948dca58f1b9.800x800x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 0,
+     "hot": false
+    },
+    "title": "\u6708\u8679 (Gekkou)",
+    "title_with_featured": "\u6708\u8679 (Gekkou)",
+    "updated_by_human_at": 1723993769,
+    "url": "https://genius.com/Bump-of-chicken-gekkou-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/355179",
+     "header_image_url": "https://images.genius.com/2b7b5ad072c3b5fe08f80b3e9fadac20.1000x424x1.jpg",
+     "id": 355179,
+     "image_url": "https://images.genius.com/4086c848b2ede6ea27cb9da0f99e1275.640x640x1.jpg",
+     "index_character": "b",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "BUMP OF CHICKEN",
+     "slug": "Bump-of-chicken",
+     "url": "https://genius.com/artists/Bump-of-chicken"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/355179",
+      "header_image_url": "https://images.genius.com/2b7b5ad072c3b5fe08f80b3e9fadac20.1000x424x1.jpg",
+      "id": 355179,
+      "image_url": "https://images.genius.com/4086c848b2ede6ea27cb9da0f99e1275.640x640x1.jpg",
+      "index_character": "b",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "BUMP OF CHICKEN",
+      "slug": "Bump-of-chicken",
+      "url": "https://genius.com/artists/Bump-of-chicken"
+     }
+    ],
+    "artist": "BUMP OF CHICKEN",
+    "lyrics": "2 Contributors\u6708\u8679 (Gekkou) Lyrics\u200bBUMP OF CHICKEN\u300c\u6708\u8679\u300d\u6b4c\u8a5e\n\n\u591c\u660e\u3051\u3088\u308a\u3082\u624b\u524d\u5074\u3000\u661f\u7a7a\u306e\u30a4\u30f3\u30af\u306e\u4e2d\n\u843d\u3068\u3057\u3066\u898b\u5931\u3063\u3066\u3000\u63a2\u3057\u7269\n\u5fc3\u306f\u7720\u308c\u306a\u3044\u307e\u307e\u3000\u592a\u967d\u306e\u4e0b\u3000\u591c\u306e\u4e2d\n\u3064\u304e\u306f\u304e\u306e\u9858\u3044\u3092\u3000\u706f\u308a\u306b\u3057\u3066\n\n\u4f55\u3082\u8981\u3089\u306a\u3044\u3000\u3060\u3063\u3066\u3082\u3046\u4f55\u3082\u6301\u3066\u306a\u3044\n\u3042\u307e\u308a\u306b\u3053\u306e\u7a7a\u3063\u307d\u304c\u3000\u5927\u304d\u904e\u304e\u308b\u304b\u3089\n\n\u305f\u3063\u305f\u4e00\u5ea6\u3060\u3051\u3067\u3082\u9837\u3044\u3066\u6b32\u3057\u3044\n\u93e1\u306e\u69d8\u306b\u624b\u3092\u4f38\u3070\u3057\u3066\u6b32\u3057\u3044\n\u305d\u306e\u4e00\u77ac\u306e\u3000\u4e00\u56de\u306e\u305f\u3081\u3000\u305d\u308c\u4ee5\u5916\u306e\n\u6642\u9593\u306e\u5168\u90e8\u304c\u3000\u71c3\u3048\u3066\u751f\u304d\u308b\u3088\n\n\u50d5\u306e\u6b63\u3057\u3055\u306a\u3093\u304b\u50d5\u3060\u3051\u306e\u3082\u306e\n\u3069\u3093\u306a\u6b69\u304d\u65b9\u3060\u3063\u3066\u4f1a\u3044\u306b\u884c\u304f\u3088\n\u80f8\u306e\u5965\u3067\u969b\u9650\u306a\u304f\u80b2\u3061\u7d9a\u3051\u308b\n\u7406\u7531\u3072\u3068\u3064\u3060\u3051\u62b1\u3048\u3066\n\u3044\u3064\u3060\u3063\u3066\u3000\u821e\u53f0\u306e\u4e0a\n\n\u601d\u3044\u51fa\u306b\u306a\u308c\u306a\u3044\u904e\u53bb\u3000\u6c38\u4e45\u30ea\u30d4\u30fc\u30c8\u3000\u982d\u3093\u4e2d\n\u672a\u3060\u5fd8\u308c\u3089\u308c\u306a\u3044\u3000\u5fd8\u308c\u7269\n\u8b0e\u3005\u89e3\u3089\u306a\u3044\u307e\u307e\u3000\u884c\u304b\u306a\u304f\u3061\u3083\u3000\u591c\u306e\u4e2d\n\u4eca\u51fa\u6765\u305f\u8db3\u8de1\u306b\u3000\u6307\u5207\u308a\u3057\u3066\nYou might also like\u540c\u3058\u69d8\u306a\u751f\u304d\u7269\u3070\u304b\u308a\u306a\u306e\u306b\n\u3069\u3046\u3057\u3066\u306a\u3093\u3060\u308d\u3046\u3000\u308f\u3056\u308f\u3056\u751f\u307e\u308c\u305f\u306e\u306f\n\n\u4e16\u754c\u304c\u6642\u8a08\u4ee5\u5916\u306e\u97f3\u3092\u5931\u304f\u3057\u305f\u3088\n\u884c\u65b9\u4e0d\u660e\u306e\u30cf\u30fc\u30c8\u304c\u53eb\u3073\u7d9a\u3051\u308b\u3088\n\u3042\u3063\u305f\u3060\u3051\u306e\u547d\u304c\u9707\u3048\u3066\u3044\u305f\n\u3042\u306a\u305f\u3072\u3068\u308a\u306e\u3000\u547c\u5438\u306e\u305b\u3044\u3067\n\n\u3044\u3064\u304b\u305d\u306e\u75db\u307f\u304c\u7b54\u3048\u3068\u51fa\u4f1a\u3048\u305f\u3089\n\u843d\u3061\u305f\u6d99\u306e\u5e30\u308b\u5bb6\u3092\u898b\u3064\u3051\u305f\u3089\n\u5b87\u5b99\u3054\u3068\u62b1\u304d\u3057\u3081\u3066\u7720\u308c\u308b\u3093\u3060\n\u899a\u3048\u3066\u3044\u308b\u3067\u3057\u3087\u3046\n\u3053\u3053\u306b\u5c0e\u3044\u305f\u3000\u30e1\u30ed\u30c7\u30a3\u30fc\u3092\n\n\u8033\u3068\u76ee\u304c\u8a18\u61b6\u3092\u3000\u63b4\u3081\u306a\u304f\u306a\u3063\u3066\u3082\n\u751f\u304d\u308b\u3053\u306e\u4f53\u304c\u3000\u6559\u3048\u3066\u304f\u308c\u308b\n\u65b0\u3057\u3044\u50b7\u8de1\u306b\u3000\u624b\u3092\u5f53\u3066\u308b\u305d\u306e\u305f\u3073\u306b\n\u9bae\u3084\u304b\u306b\u8607\u308b\u3000\u61d0\u304b\u3057\u3044\u6e29\u3082\u308a\u3092\n\n\u4e16\u754c\u304c\u7b11\u3063\u305f\u69d8\u306b\u8f1d\u3044\u305f\u3093\u3060\u3088\n\u900f\u660e\u3060\u3063\u305f\u30cf\u30fc\u30c8\u304c\u5f62\u306b\u6c17\u4ed8\u3044\u305f\u3088\n\u3069\u3053\u306b\u884c\u3063\u305f\u3063\u3066\u3000\u3069\u3053\u306b\u3082\u884c\u304b\u306a\u304b\u3063\u305f\n\u3042\u306a\u305f\u3072\u3068\u308a\u3068\u306e\u3000\u547c\u5438\u306e\u305b\u3044\u3067\n\n\u305f\u3063\u305f\u4e00\u5ea6\u3060\u3051\u3067\u3082\u9837\u3044\u3066\u6b32\u3057\u3044\n\u3069\u3093\u306a\u6b69\u304d\u65b9\u3060\u3063\u3066\u4f1a\u3044\u306b\u884c\u304f\u3088\n\u3042\u3063\u305f\u3060\u3051\u306e\u547d\u304c\u9707\u3048\u3066\u3044\u305f\n\u7406\u7531\u3072\u3068\u3064\u3060\u3051\u3000\u8679\u3092\u898b\u305f\u304b\u3089\n\u3044\u3064\u3060\u3063\u3066\u3000\u821e\u53f0\u306e\u4e0aEmbed"
+   }
+  },
+  {
+   "number": 3,
+   "song": {
+    "_type": "song",
+    "annotation_count": 0,
+    "api_path": "/songs/4391833",
+    "artist_names": "BUMP OF CHICKEN",
+    "full_title": "Aurora by\u00a0BUMP\u00a0OF CHICKEN",
+    "header_image_thumbnail_url": "https://images.genius.com/02444d9c56ebb464d0a04ac4d254d89d.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/02444d9c56ebb464d0a04ac4d254d89d.700x700x1.jpg",
+    "id": 4391833,
+    "instrumental": false,
+    "lyrics_owner_id": 1931244,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1675949139,
+    "path": "/Bump-of-chicken-aurora-lyrics",
+    "primary_artist_names": "BUMP OF CHICKEN",
+    "pyongs_count": null,
+    "relationships_index_url": "https://genius.com/Bump-of-chicken-aurora-sample",
+    "release_date_components": {
+     "year": 2019,
+     "month": 3,
+     "day": 15
+    },
+    "release_date_for_display": "March 15, 2019",
+    "release_date_with_abbreviated_month_for_display": "Mar. 15, 2019",
+    "song_art_image_thumbnail_url": "https://images.genius.com/02444d9c56ebb464d0a04ac4d254d89d.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/02444d9c56ebb464d0a04ac4d254d89d.700x700x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 0,
+     "hot": false
+    },
+    "title": "Aurora",
+    "title_with_featured": "Aurora",
+    "updated_by_human_at": 1723993674,
+    "url": "https://genius.com/Bump-of-chicken-aurora-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/355179",
+     "header_image_url": "https://images.genius.com/2b7b5ad072c3b5fe08f80b3e9fadac20.1000x424x1.jpg",
+     "id": 355179,
+     "image_url": "https://images.genius.com/4086c848b2ede6ea27cb9da0f99e1275.640x640x1.jpg",
+     "index_character": "b",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "BUMP OF CHICKEN",
+     "slug": "Bump-of-chicken",
+     "url": "https://genius.com/artists/Bump-of-chicken"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/355179",
+      "header_image_url": "https://images.genius.com/2b7b5ad072c3b5fe08f80b3e9fadac20.1000x424x1.jpg",
+      "id": 355179,
+      "image_url": "https://images.genius.com/4086c848b2ede6ea27cb9da0f99e1275.640x640x1.jpg",
+      "index_character": "b",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "BUMP OF CHICKEN",
+      "slug": "Bump-of-chicken",
+      "url": "https://genius.com/artists/Bump-of-chicken"
+     }
+    ],
+    "artist": "BUMP OF CHICKEN",
+    "lyrics": "4 ContributorsTranslationsRomanizationAurora Lyrics[\u200bBUMP OF CHICKEN\u300cAurora\u300d\u6b4c\u8a5e]\n\n[Verse 1]\n\u3082\u3046\u304d\u3063\u3068\u591a\u5206\u5927\u4e08\u592b\n\u3069\u3053\u304c\u75db\u3044\u304b\u5206\u304b\u3063\u305f\u304b\u3089\u306d\n\u81ea\u5206\u3067\u6d99\u62fe\u3048\u305f\u3089\n\u3044\u3064\u304b\u9b54\u6cd5\u306b\u5909\u3048\u3089\u308c\u308b\n\u307b\u3093\u306e\u5c11\u3057\u5fd8\u308c\u3066\u3044\u305f\u306d\n\u3068\u3066\u3082\u9577\u304b\u3063\u305f \u307b\u3093\u306e\u5c11\u3057\n\u304a\u65e5\u69d8\u304c\u306a\u3044\u6642\u306f\n\u30af\u30ec\u30e8\u30f3\u3067\u4e16\u754c\u306b\u5275\u308a\u51fa\u3057\u305f\u3067\u3057\u3087\u3046\n\n[Pre-Chorus]\n\u6b63\u7fa9\u306e\u5473\u65b9\u306b\u306f\u898b\u3064\u3051\u3066\u8cb0\u3048\u306a\u304b\u3063\u305f\u985e\n\u63a2\u3057\u306b\u884c\u304b\u306a\u304f\u3061\u3083\n\u547c\u3073\u5408\u3044\u7d9a\u3051\u305f \u3042\u306e\u58f0\u3060\u3088\n\n[Chorus]\n\u6e9c\u3081\u606f\u306b\u3082\u306a\u308c\u306a\u304b\u3063\u305f \u540d\u524d\u3055\u3048\u6301\u305f\u306a\u3044\u601d\u3044\u304c\n\u5fc3\u306e\u4e00\u756a\u5965\u306e\u65b9 \u722a\u3092\u7acb\u3066\u3066 \u582a\u3048\u3066\u3044\u305f\u3093\u3060\n\u89e6\u308c\u3066\u78ba\u304b\u3081\u3089\u308c\u305f\u3089 \u5f62\u3068\u97f3\u304c\u5206\u304b\u308b\u3088\n\u4f1d\u3048\u305f\u3044\u8a00\u8449\u306f\u3044\u3064\u3060\u3063\u3066 \u305d\u3046\u3084\u3063\u3066\u898b\u3064\u3051\u3066\u304d\u305f\n\n[Verse 2]\n\u632f\u308a\u8fd4\u308c\u3070\u9014\u5207\u308c\u305a\u306b\n\u6b6a\u306a\u7dda\u3092\u63cf\u304f\u8db3\u8de1\n\u60b2\u3057\u3044\u304f\u3089\u3044\u5206\u304b\u308a\u3084\u3059\u304f\n\u3044\u3064\u3082\u3053\u3053\u306b\u5411\u3051\u3066\u4f38\u3073\u308b\n\u5927\u5207\u306b\u3059\u308b\u306e\u306f\u4e0b\u624b\u3067\u3082\n\u5927\u5207\u3060\u3063\u3066\u4e8b\u306f\u5206\u304b\u3063\u3066\u3044\u308b\n\u305b\u3081\u3066\u305d\u306e\u767d\u3044\u624b\u7d19\u304c\n\u6b63\u3057\u304f\u5c4a\u304d\u307e\u3059\u3088\u3046\u306b\nYou might also like[Pre-Chorus]\n\u8003\u3048\u904e\u304e\u3058\u3083\u306a\u3044\u3088 \u305d\u3046\u3044\u3046\u95c7\u306e\u4e2d\u306b\u3044\u3066\n\u52c7\u6c17\u306e\u773c\u5dee\u3057\u3067\n\u6b21\u306e\u8db3\u5834\u3092\u63a2\u3057\u3066\u3044\u308b\u3060\u3051\n\n[Chorus]\n\u89e3\u304d\u653e\u3066 \u3042\u306a\u305f\u306e\u58f0\u3067 \u5149\u308b\u7fbd\u6839\u4e0e\u3048\u305f\u601d\u3044\u3092\n\u305d\u306e\u8db3\u304c\u5411\u304b\u3046\u3079\u304d\u5148\u3078 \u305d\u3046\u3057\u306a\u304d\u3083\u898b\u3048\u306a\u304b\u3063\u305f\u672a\u6765\u3078\n\u8ae6\u3081\u306a\u304b\u3063\u305f\u4e8b\u3092 \u8ab0\u3088\u308a\u3082\u77e5\u3063\u3066\u3044\u308b\u306e\u306f\n\u7fbd\u3070\u305f\u3044\u305f\u8a00\u8449\u306e\u3072\u3068\u3064\u3072\u3068\u3064 \u5fc5\u305a\u5c4a\u304d\u307e\u3059\u3088\u3046\u306b\n\n[Bridge]\n\u3082\u3046\u4e00\u5ea6 \u3082\u3046\u4e00\u5ea6\n\u30af\u30ec\u30e8\u30f3\u3067 \u597d\u304d\u306a\u3088\u3046\u306b\n\u3082\u3046\u4e00\u5ea6 \u3055\u3042\u3069\u3046\u305e\n\u597d\u304d\u306a\u8272\u3067 \u900f\u660e\u306b (Aah)\n\u3082\u3046\u4e00\u5ea6 \u3082\u3046\u4e00\u5ea6\n\u30af\u30ec\u30e8\u30f3\u3067 \u3053\u306e\u4e16\u754c\u306b\n\u4eca\u3053\u305d \u3055\u3042\u3069\u3046\u305e \u9b54\u6cd5\u306b\u5909\u3048\u3089\u308c\u308b\n\n[Chorus]\n\u3042\u3042, \u306a\u305c, \u3069\u3046\u3057\u3066, \u3068\u7e70\u308a\u8fd4\u3057\u3066\n\u305d\u308c\u3067\u3082\u7d9a\u3051\u3066\u304d\u305f\u3060\u308d\u3046\n\u5fc3\u306e\u4e00\u756a\u5965\u306e\u65b9 \u6d99\u306f\u708e \u5411\u304d\u5408\u3046\u6642\u304c\u6765\u305f\n\u89e6\u308c\u3066\u78ba\u304b\u3081\u3089\u308c\u305f\u3089 \u5f62\u3068\u97f3\u3092\u304f\u308c\u308b\u3088\n\u3042\u306a\u305f\u306e\u8a00\u8449\u304c\u3044\u3064\u3060\u3063\u3066 \u3042\u306a\u305f\u3092\u63a2\u3057\u3066\u304d\u305f\n\u305d\u3046\u3084\u3063\u3066\u898b\u3064\u3051\u3066\u304d\u305f\n[Outro]\n\u3082\u3046\u4e00\u5ea6 \u3082\u3046\u4e00\u5ea6\n\u30af\u30ec\u30e8\u30f3\u3067 \u597d\u304d\u306a\u3088\u3046\u306b\n\u3082\u3046\u4e00\u5ea6 \u3055\u3042\u3069\u3046\u305e\n\u597d\u304d\u306a\u8272\u3067 \u900f\u660e\u306b\n\u3082\u3046\u4e00\u5ea6 \u3082\u3046\u4e00\u5ea6\n\u30af\u30ec\u30e8\u30f3\u3067 \u3053\u306e\u4e16\u754c\u306b\n\u4eca\u3053\u305d \u3055\u3042\u3069\u3046\u305e \u9b54\u6cd5\u306b\u5909\u3048\u3089\u308c\u308bEmbed"
+   }
+  },
+  {
+   "number": 4,
+   "song": {
+    "_type": "song",
+    "annotation_count": 1,
+    "api_path": "/songs/3267095",
+    "artist_names": "BUMP OF CHICKEN",
+    "full_title": "\u8a18\u5ff5\u64ae\u5f71 (Kinensatsuei) by\u00a0BUMP\u00a0OF CHICKEN",
+    "header_image_thumbnail_url": "https://images.genius.com/07be521ffd9bf44d93ea3785035766a2.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/07be521ffd9bf44d93ea3785035766a2.1000x1000x1.jpg",
+    "id": 3267095,
+    "instrumental": false,
+    "lyrics_owner_id": 1931244,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1602126455,
+    "path": "/Bump-of-chicken-kinensatsuei-lyrics",
+    "primary_artist_names": "BUMP OF CHICKEN",
+    "pyongs_count": null,
+    "relationships_index_url": "https://genius.com/Bump-of-chicken-kinensatsuei-sample",
+    "release_date_components": {
+     "year": 2017,
+     "month": 7,
+     "day": 5
+    },
+    "release_date_for_display": "July 5, 2017",
+    "release_date_with_abbreviated_month_for_display": "Jul. 5, 2017",
+    "song_art_image_thumbnail_url": "https://images.genius.com/07be521ffd9bf44d93ea3785035766a2.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/07be521ffd9bf44d93ea3785035766a2.1000x1000x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 1,
+     "hot": false
+    },
+    "title": "\u8a18\u5ff5\u64ae\u5f71 (Kinensatsuei)",
+    "title_with_featured": "\u8a18\u5ff5\u64ae\u5f71 (Kinensatsuei)",
+    "updated_by_human_at": 1723993781,
+    "url": "https://genius.com/Bump-of-chicken-kinensatsuei-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/355179",
+     "header_image_url": "https://images.genius.com/2b7b5ad072c3b5fe08f80b3e9fadac20.1000x424x1.jpg",
+     "id": 355179,
+     "image_url": "https://images.genius.com/4086c848b2ede6ea27cb9da0f99e1275.640x640x1.jpg",
+     "index_character": "b",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "BUMP OF CHICKEN",
+     "slug": "Bump-of-chicken",
+     "url": "https://genius.com/artists/Bump-of-chicken"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/355179",
+      "header_image_url": "https://images.genius.com/2b7b5ad072c3b5fe08f80b3e9fadac20.1000x424x1.jpg",
+      "id": 355179,
+      "image_url": "https://images.genius.com/4086c848b2ede6ea27cb9da0f99e1275.640x640x1.jpg",
+      "index_character": "b",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "BUMP OF CHICKEN",
+      "slug": "Bump-of-chicken",
+      "url": "https://genius.com/artists/Bump-of-chicken"
+     }
+    ],
+    "artist": "BUMP OF CHICKEN",
+    "lyrics": "3 Contributors\u8a18\u5ff5\u64ae\u5f71 (Kinensatsuei) Lyrics\u200bBUMP OF CHICKEN\u300c\u8a18\u5ff5\u64ae\u5f71\u300d\u6b4c\u8a5e\n\n[Verse 1]\n\u76ee\u7684\u3084\u7406\u7531\u306e\u3056\u308f\u3081\u304d\u304b\u3089\u306f\u307f\u51fa\u3057\u305f\n\u540d\u4ed8\u3051\u3088\u3046\u306e\u306a\u3044\u6642\u9593\u306e\u5834\u6240\u306b\n\u7d19\u98db\u884c\u6a5f\u307f\u305f\u3044\u306b\u3000\u3075\u3089\u3075\u3089\u98db\u3073\u8fbc\u3093\u3067\n\u7a7a\u306e\u8272\u304c\u5909\u308f\u308b\u306e\u3092\u898b\u3066\u3044\u305f\n\n[Verse 2]\n\u9060\u304f\u306b\u805e\u3053\u3048\u305f\u3000\u9060\u5420\u3048\u3068\u30d6\u30ec\u30fc\u30ad\n\u4e00\u672c\u306e\u30b3\u30fc\u30e9\u3092\u631f\u3093\u3067\u5ea7\u3063\u305f\n\u597d\u304d\u306a\u3060\u3051\u558b\u3063\u3066\u3000\u597d\u304d\u306a\u3060\u3051\u9ed9\u3063\u3066\n\u66d6\u6627\u306a\u30e1\u30ed\u30c7\u30a3\u30fc\u3000\u4e00\u7dd2\u306b\u306a\u305e\u3063\u305f\n\n[Pre-Chorus]\n\u3084\u308a\u305f\u3044\u4e8b\u304c\u306a\u3044\u308f\u3051\u3058\u3083\u306a\u3044\u306f\u305a\u3060\u3063\u305f\u3068\u601d\u3046\u3051\u3069\n\u601d\u3044\u51fa\u305d\u3046\u3068\u3057\u305f\u3089\u3000\u7b11\u9854\u3068\u305f\u3081\u606f\u306e\u4e8b\u3070\u304b\u308a\n\n[Chorus]\n\u306d\u3047\u3000\u304d\u3063\u3068\u3000\u8ff7\u5b50\u306e\u307e\u307e\u3067\u3082\u5927\u4e08\u592b\n\u50d5\u3089\u306f\u3069\u3053\u3078\u3067\u3082\u3044\u3051\u308b\u3068\u601d\u3046\n\u541b\u306f\u77e5\u3063\u3066\u3044\u305f\u3000\u50d5\u3082\u6c17\u4ed8\u3044\u3066\u3044\u305f\n\u7d42\u308f\u308b\u9b54\u6cd5\u306e\u4e2d\u306b\u3044\u305f\u4e8b\n\n[Verse 3]\n\u6628\u65e5\u3068\u4f3c\u305f\u3088\u3046\u306a\u7e70\u308a\u8fd4\u3057\u306e\u666e\u901a\u306b\n\u5c11\u3057\u305a\u3064\u3053\u3063\u305d\u308a\u6642\u9593\u524a\u3089\u308c\u305f\n\u77ac\u304d\u306e\u5411\u3053\u3046\u306b\u3000\u3044\u308d\u3044\u308d\u3044\u304f\u3064\u3082\n\u898b\u843d\u3068\u3057\u305f\u308a\u3000\u898b\u843d\u3068\u3057\u305f\u3075\u308a\u3057\u305f\u308a\nYou might also like[Verse 4]\n\u3042\u308c\u307b\u3069\u8fd1\u304f\u3066\u3000\u3060\u3051\u3069\u89e6\u308c\u306a\u304b\u3063\u305f\n\u5197\u8ac7\u3068\u6c88\u9ed9\u306e\u5965\u306e\u4f55\u304b\n\u30dd\u30b1\u30c3\u30c8\u306b\u306f\u9375\u3068\u3000\u4e38\u3081\u305f\u30ec\u30b7\u30fc\u30c8\u3068\n\u9762\u5012\u306a\u672c\u97f3\u3092\u3000\u3064\u3063\u3053\u3093\u3067\u96a0\u3057\u3066\u3044\u305f\n\n[Pre-Chorus]\n\u56fa\u307e\u3063\u3066\u5f85\u3063\u305f\u30b7\u30e3\u30c3\u30bf\u30fc\u3000\u30ec\u30f3\u30ba\u306e\u524d\u3067\u4e26\u3093\u3067\n\u3068\u3066\u3082\u697d\u3057\u304f\u3066\u3000\u305a\u308b\u304f\u3066\u3000\u3042\u307e\u308a\u306b\u7729\u3057\u304b\u3063\u305f\n\n[Chorus]\n\u305d\u3057\u3066\u4eca\u3000\u60f3\u50cf\u3058\u3083\u306a\u3044\u672a\u6765\u306b\u7acb\u3063\u3066\n\u76f8\u5909\u308f\u3089\u305a\u540c\u3058\u602a\u6211\u3092\u3057\u305f\u3088\n\u638c\u306e\u4e0a\u306e\u3000\u52d5\u304b\u306a\u3044\u666f\u8272\u306e\u4e2d\u304b\u3089\n\u50d5\u3089\u304c\u50d5\u3092\u898b\u3066\u3044\u308b\n\n[Verse 5]\n\u76ee\u7684\u3084\u7406\u7531\u306e\u3056\u308f\u3081\u304d\u306b\u56f2\u307e\u308c\u3066\n\u899a\u3048\u3066\u6163\u308c\u3066\u3000\u30d9\u30b9\u30c8\u3092\u5c3d\u304f\u3057\u3066\n\u805e\u3053\u3048\u305f\u6c17\u304c\u3057\u305f\u3000\u9060\u5420\u3048\u3068\u30d6\u30ec\u30fc\u30ad\n\u66d6\u6627\u306a\u30e1\u30ed\u30c7\u30a3\u30fc\u3000\u4e00\u4eba\u3067\u306a\u305e\u3063\u305f\n\n[Pre-Chorus]\n\u8a00\u8449\u306b\u76f4\u305b\u306a\u3044\u5168\u3066\u3092\u3000\u7d19\u98db\u884c\u6a5f\u307f\u305f\u3044\u306b\n\u3042\u306e\u6642\u4e8c\u4eba\u3067\u898b\u3064\u3081\u305f\u3000\u30ec\u30f3\u30ba\u306e\u5411\u3053\u3046\u306e\u4e16\u754c\u3078...\n[Chorus]\n...\u6295\u3052\u305f\u3093\u3060\n\u60f3\u50cf\u3058\u3083\u306a\u3044\u672a\u6765\u306b\u7acb\u3063\u3066\n\u50d5\u3060\u3051\u306e\u6628\u65e5\u304c\u7a4d\u307f\u91cd\u306a\u3063\u3066\u3082\n\u305d\u306e\u6628\u65e5\u306e\u4e0b\u306e\u3000\u5909\u308f\u3089\u306a\u3044\u666f\u8272\u306e\u4e2d\u304b\u3089\n\u3053\u3053\u307e\u3067\u7e4b\u304c\u3063\u3066\u3044\u308b\n\u8ff7\u5b50\u306e\u307e\u307e\u3067\u3082\u5927\u4e08\u592b\n\u50d5\u3089\u306f\u3069\u3053\u3078\u3067\u3082\u3044\u3051\u308b\u3068\u601d\u3046\n\u541b\u306f\u7b11\u3063\u3066\u3044\u305f\u3000\u50d5\u3060\u3063\u3066\u305d\u3046\u3060\u3063\u305f\n\u7d42\u308f\u308b\u9b54\u6cd5\u306e\u5916\u306b\u5411\u3051\u3066\n\u4eca\u50d5\u304c\u3044\u308b\u672a\u6765\u306b\u5411\u3051\u3066Embed"
+   }
+  },
+  {
+   "number": 5,
+   "song": {
+    "_type": "song",
+    "annotation_count": 0,
+    "api_path": "/songs/5147656",
+    "artist_names": "BUMP OF CHICKEN",
+    "full_title": "\u30b8\u30e3\u30f3\u30b0\u30eb\u30b8\u30e0 (Jungle gym) by\u00a0BUMP\u00a0OF CHICKEN",
+    "header_image_thumbnail_url": "https://images.genius.com/b44c2c3d4d4a3e70ef1b948dca58f1b9.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/b44c2c3d4d4a3e70ef1b948dca58f1b9.800x800x1.jpg",
+    "id": 5147656,
+    "instrumental": false,
+    "lyrics_owner_id": 4197937,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1602126515,
+    "path": "/Bump-of-chicken-jungle-gym-lyrics",
+    "primary_artist_names": "BUMP OF CHICKEN",
+    "pyongs_count": null,
+    "relationships_index_url": "https://genius.com/Bump-of-chicken-jungle-gym-sample",
+    "release_date_components": {
+     "year": 2019,
+     "month": 7,
+     "day": 10
+    },
+    "release_date_for_display": "July 10, 2019",
+    "release_date_with_abbreviated_month_for_display": "Jul. 10, 2019",
+    "song_art_image_thumbnail_url": "https://images.genius.com/b44c2c3d4d4a3e70ef1b948dca58f1b9.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/b44c2c3d4d4a3e70ef1b948dca58f1b9.800x800x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 0,
+     "hot": false
+    },
+    "title": "\u30b8\u30e3\u30f3\u30b0\u30eb\u30b8\u30e0 (Jungle gym)",
+    "title_with_featured": "\u30b8\u30e3\u30f3\u30b0\u30eb\u30b8\u30e0 (Jungle gym)",
+    "updated_by_human_at": 1723993708,
+    "url": "https://genius.com/Bump-of-chicken-jungle-gym-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/355179",
+     "header_image_url": "https://images.genius.com/2b7b5ad072c3b5fe08f80b3e9fadac20.1000x424x1.jpg",
+     "id": 355179,
+     "image_url": "https://images.genius.com/4086c848b2ede6ea27cb9da0f99e1275.640x640x1.jpg",
+     "index_character": "b",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "BUMP OF CHICKEN",
+     "slug": "Bump-of-chicken",
+     "url": "https://genius.com/artists/Bump-of-chicken"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/355179",
+      "header_image_url": "https://images.genius.com/2b7b5ad072c3b5fe08f80b3e9fadac20.1000x424x1.jpg",
+      "id": 355179,
+      "image_url": "https://images.genius.com/4086c848b2ede6ea27cb9da0f99e1275.640x640x1.jpg",
+      "index_character": "b",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "BUMP OF CHICKEN",
+      "slug": "Bump-of-chicken",
+      "url": "https://genius.com/artists/Bump-of-chicken"
+     }
+    ],
+    "artist": "BUMP OF CHICKEN",
+    "lyrics": "2 Contributors\u30b8\u30e3\u30f3\u30b0\u30eb\u30b8\u30e0 (Jungle gym) Lyrics\u200bBUMP OF CHICKEN\u300c\u30b8\u30e3\u30f3\u30b0\u30eb\u30b8\u30e0\u300d\u6b4c\u8a5e\n\n\u3053\u3053\u307e\u3067\u304a\u3044\u3067\u3063\u3066\u8a00\u3063\u305f\u306e\u304c\u3000\u9060\u3044\u6614\u306e\u4e8b\u307f\u305f\u3044\u3060\n\u706f\u308a\u306e\u3064\u3044\u305f\u516c\u5712\u3067\u3000\u30b8\u30e3\u30f3\u30b0\u30eb\u30b8\u30e0\u306e\u4e2d\u306b\u3044\u305f\u3088\n\n\u7686\u306e\u524d\u3058\u3083\u3044\u3064\u3082\u901a\u308a\u3000\u304a\u3069\u3051\u3066\u307f\u305b\u305f\u663c\u306e\u5f8c\n\u4e00\u4eba\u6b8b\u3063\u3066\u3000\u638c\u306e\u9244\u306e\u5302\u3044\u3092\u55c5\u3044\u3067\u3044\u305f\n\n\u5e30\u308d\u3046\u3000\u5e30\u308d\u3046\u3000\u9060\u304f\u3067\u6b4c\u3063\u3066\u3044\u308b\n\n\u305d\u306e\u65e5\u3000\u50d5\u3092\u898b\u3066\u3044\u305f\u306e\u306f\u3000\u6b20\u3051\u305f\u6708\u306e\u9ed2\u3044\u3068\u3053\u308d\n\n\u3042\u308c\u304b\u3089\u5927\u4eba\u306b\u306a\u3063\u305f\u4eca\u3000\u8272\u3005\u5fd8\u308c\u305f\u9854\u3092\u3057\u3066\n\u305f\u304f\u3055\u3093\u306e\u77e5\u3089\u306a\u3044\u4eba\u9054\u3068\u3000\u30ec\u30fc\u30eb\u306e\u4e0a\u3067\u63fa\u3089\u308c\u308b\n\n\u884c\u304d\u3082\u5e30\u308a\u3082\u5927\u5dee\u306a\u3044\u3000\u81ea\u753b\u50cf\u307f\u305f\u3044\u306a\u9854\u3092\u3057\u3066\n\u8ee2\u3070\u306a\u3044\u3088\u3046\u306b\u63b4\u307e\u3063\u3066\u3000\u3042\u308b\u3044\u306f\u5ea7\u3063\u3066\u904b\u3070\u308c\u308b\n\n\u30ac\u30bf\u30f3\u30b4\u30c8\u30f3\u3000\u30ac\u30bf\u30f3\u30b4\u30c8\u30f3\u3000\u7e4b\u304e\u76ee\u3092\u8d8a\u3048\u3066\u3086\u304f\n\n\u96a3\u306e\u4ed6\u4eba\u304c\u6700\u5f8c\u306b\u6ce3\u3044\u305f\u306e\u306f\u3000\u3044\u3064\u3000\u3069\u3093\u306a\u7406\u7531\n\n\u4f8b\u3048\u3070\u6700\u65b0\u306e\u6d99\u304c\u3000\u3044\u304d\u306a\u308a\u96a3\u3067\u6d41\u308c\u305f\u3068\u3057\u3066\u3082\n\u7a93\u306e\u5916\u98db\u3093\u3067\u3044\u304f\u3000\u96fb\u67f1\u3084\u770b\u677f\u3068\u540c\u3058\n\n\u305d\u308c\u3067\u3082\u3069\u3046\u3057\u3066\u3060\u308d\u3046\u3000\u3064\u3089\u308c\u3066\u6ce3\u3044\u3066\u3057\u307e\u3044\u305d\u3046\u306a\n\u540d\u524d\u3082\u308f\u304b\u3089\u306a\u3044\u306e\u306b\u3000\u8a71\u3082\u805e\u3044\u3061\u3083\u3044\u306a\u3044\u306e\u306b\nYou might also like\u8ab0\u304b\u3089\u898b\u3066\u3082\u53d6\u308b\u306b\u8db3\u3089\u306a\u3044\u3000\u3060\u304b\u3089\u3053\u305d\u8ab0\u306b\u3082\u8a00\u3048\u306a\u3044\n\u305d\u3093\u306a\u6d99\u306a\u3089\u304d\u3063\u3068\u308f\u304b\u308b\u3000\u3042\u3041\u3000\u305d\u3046\u3000\u3053\u308c\u306f\u3000\u305f\u3060\u306e\u4f8b\u3048\u3070\u306e\u8a71\n\n\u30ac\u30bf\u30f3\u30b4\u30c8\u30f3\u3000\u30ac\u30bf\u30f3\u30b4\u30c8\u30f3\u3000\u9759\u304b\u306b\u7d9a\u3044\u3066\u3044\u308b\n\u30ac\u30bf\u30f3\u30b4\u30c8\u30f3\u3000\u30ac\u30bf\u30f3\u30b4\u30c8\u30f3\u3000\u7e4b\u304e\u76ee\u3092\u8d8a\u3048\u3066\u3086\u304f\n\n\u3053\u3053\u307e\u3067\u304a\u3044\u3067\u3063\u3066\u8a00\u3063\u305f\u306e\u304c\u3000\u9060\u3044\u6614\u306e\u4e8b\u306b\u306a\u3063\u3066\n\u3042\u306e\u65e5\u904a\u3093\u3060\u53cb\u9054\u306e\u3000\u540d\u524d\u3082\u602a\u3057\u304f\u306a\u3063\u3066\u304d\u3066\n\n\u3069\u3093\u306a\u6642\u3067\u3082\u7b11\u3048\u308b\u3057\u3000\u3084\u308b\u3079\u304d\u4e8b\u3082\u3053\u306a\u3059\u3051\u3069\n\u672a\u3060\u306b\u5fc3\u306e\u672c\u5f53\u306f\u3000\u30b8\u30e3\u30f3\u30b0\u30eb\u30b8\u30e0\u306e\u4e2d\u306b\u3044\u308b\n\n\u5e30\u308d\u3046\u3000\u5e30\u308d\u3046\u3000\u9060\u304f\u3067\u6b4c\u3063\u3066\u3044\u308b\n\n\u3053\u3053\u304b\u3089\u51fa\u305f\u3089\u3044\u3064\u3082\u901a\u308a\u3000\u3042\u308a\u3075\u308c\u305f\u4e00\u6b69\u76ee\u3092\u6b69\u304f\n\n\u6b20\u3051\u305f\u6708\u306e\u9ed2\u3044\u3068\u3053\u308d\u3000\u6b20\u3051\u305f\u6708\u306e\u9ed2\u3044\u3068\u3053\u308dEmbed"
+   }
+  },
+  {
+   "number": 6,
+   "song": {
+    "_type": "song",
+    "annotation_count": 0,
+    "api_path": "/songs/3267092",
+    "artist_names": "BUMP OF CHICKEN",
+    "full_title": "\u30ea\u30dc\u30f3 (Ribbon) by\u00a0BUMP\u00a0OF CHICKEN",
+    "header_image_thumbnail_url": "https://images.genius.com/0ae94fe4e2fde2211c2c0eb135c4e69b.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/0ae94fe4e2fde2211c2c0eb135c4e69b.1000x1000x1.jpg",
+    "id": 3267092,
+    "instrumental": false,
+    "lyrics_owner_id": 1931244,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1602126585,
+    "path": "/Bump-of-chicken-ribbon-lyrics",
+    "primary_artist_names": "BUMP OF CHICKEN",
+    "pyongs_count": null,
+    "relationships_index_url": "https://genius.com/Bump-of-chicken-ribbon-sample",
+    "release_date_components": {
+     "year": 2017,
+     "month": 5,
+     "day": 1
+    },
+    "release_date_for_display": "May 1, 2017",
+    "release_date_with_abbreviated_month_for_display": "May. 1, 2017",
+    "song_art_image_thumbnail_url": "https://images.genius.com/0ae94fe4e2fde2211c2c0eb135c4e69b.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/0ae94fe4e2fde2211c2c0eb135c4e69b.1000x1000x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 0,
+     "hot": false
+    },
+    "title": "\u30ea\u30dc\u30f3 (Ribbon)",
+    "title_with_featured": "\u30ea\u30dc\u30f3 (Ribbon)",
+    "updated_by_human_at": 1723993725,
+    "url": "https://genius.com/Bump-of-chicken-ribbon-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/355179",
+     "header_image_url": "https://images.genius.com/2b7b5ad072c3b5fe08f80b3e9fadac20.1000x424x1.jpg",
+     "id": 355179,
+     "image_url": "https://images.genius.com/4086c848b2ede6ea27cb9da0f99e1275.640x640x1.jpg",
+     "index_character": "b",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "BUMP OF CHICKEN",
+     "slug": "Bump-of-chicken",
+     "url": "https://genius.com/artists/Bump-of-chicken"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/355179",
+      "header_image_url": "https://images.genius.com/2b7b5ad072c3b5fe08f80b3e9fadac20.1000x424x1.jpg",
+      "id": 355179,
+      "image_url": "https://images.genius.com/4086c848b2ede6ea27cb9da0f99e1275.640x640x1.jpg",
+      "index_character": "b",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "BUMP OF CHICKEN",
+      "slug": "Bump-of-chicken",
+      "url": "https://genius.com/artists/Bump-of-chicken"
+     }
+    ],
+    "artist": "BUMP OF CHICKEN",
+    "lyrics": "3 Contributors\u30ea\u30dc\u30f3 (Ribbon) Lyrics\u200bBUMP OF CHICKEN\u300c\u30ea\u30dc\u30f3\u300d\u6b4c\u8a5e\n\n\u5d50\u306e\u4e2d\u3092\u3053\u3053\u307e\u3067\u6765\u305f\u3093\u3060\n\u5d50\u306e\u4e2d\u3092\u3053\u3053\u307e\u3067\u6765\u305f\u3093\u3060\n\u51fa\u4f1a\u3063\u3066\u751f\u307e\u308c\u305f\u5149\u3000\u8ffd\u3044\u304b\u3051\u3066\n\n\u30dd\u30b1\u30c3\u30c8\u306b\u52c7\u6c17\u304c\u3000\u30ac\u30e9\u30b9\u7389\u3072\u3068\u3064\u5206\n\u305d\u308c\u305e\u308c\u6301\u3063\u3066\u3044\u308b\u3000\u30ac\u30e9\u30b9\u7389\u3072\u3068\u3064\u5206\n\u4e26\u3079\u3066\u3082\u540c\u3058\u6570\u3000\u3042\u306e\u65e5\u304b\u3089\u3000\u59cb\u307e\u308a\u304b\u3089\n\n\u3064\u304e\u306f\u304e\u306e\u5098\u3000\u6c5a\u308c\u305f\u30ab\u30f3\u30c6\u30e9\n\u624b\u4f5c\u308a\u306e\u5730\u56f3\u3000\u5927\u4e8b\u306b\u4e00\u7dd2\u306b\u3000\u4f7f\u3063\u305f\n\n\u3053\u3053\u306f\u3069\u3053\u306a\u3093\u3060\u308d\u3046\u306d\u3000\u3069\u3053\u306b\u884c\u304f\u3093\u3060\u308d\u3046\u306d\n\u8ab0\u4e00\u4eba\u308f\u304b\u3063\u3066\u3044\u306a\u3044\u3051\u3069\u3000\u5074\u306b\u3044\u308b\u4e8b\u3092\u9078\u3093\u3067\n\u4eca\u5074\u306b\u3044\u308b\u304b\u3089\u3000\u8ff7\u5b50\u3058\u3083\u306a\u3044\u3093\u3060\n\n\u305f\u304f\u3055\u3093\u7b11\u3063\u305f\u308a\u3000\u305d\u308c\u3088\u308a\u306f\u308b\u304b\u306b\u5c11\u306a\u3044\n\u6ce3\u3044\u305f\u308a\u6012\u3063\u305f\u308a\u3057\u305f\u4e8b\u306e\u5168\u90e8\u304c\n\u97f3\u7b26\u306b\u306a\u3063\u3066\u7e4b\u304c\u3063\u3066\u3000\u50d5\u3089\u3092\u7d50\u3093\u3060\n\n\u30dd\u30b1\u30c3\u30c8\u306b\u6050\u6016\u304c\u3000\u5b87\u5b99\u3068\u540c\u3058\u304f\u3089\u3044\n\u305d\u308c\u305e\u308c\u6301\u3063\u3066\u3044\u308b\u3000\u5b87\u5b99\u3068\u540c\u3058\u304f\u3089\u3044\n\u540c\u3058\u6642\u306b\u9707\u3048\u305f\u3089\u3000\u5f37\u304f\u306a\u308c\u305f\u3000\u5f31\u304f\u306a\u308c\u305f\n\n\u6307\u5dee\u3057\u305fUFO\u3000\u3059\u308c\u9055\u3063\u305f\u91ce\u826f\u732b\n\u3042\u304f\u3073\u306e\u30e6\u30cb\u30be\u30f3\u3000\u3042\u3068\u4f55\u304c\u3042\u3063\u305f\u3000\u6559\u3048\u3066\nYou might also like\u610f\u5730\u3084\u6065\u305a\u304b\u3057\u3055\u306b\u8ca0\u3051\u306a\u3044\u3067\n\u5fc3\u3067\u6b63\u9762\u304b\u3089\u5411\u304d\u5408\u3048\u308b\u3088\n\u50d5\u3089\u3092\u7d50\u3076\u30ea\u30dc\u30f3\u306f\n\u89e3\u3051\u306a\u3044\u308f\u3051\u3058\u3083\u306a\u3044\n\u7d50\u3093\u3067\u304d\u305f\u3093\u3060\n\n\u541b\u306e\u52c7\u6c17\u3092\u50d5\u304c\u307f\u308c\u3070\u661f\u3060\n\u4e26\u3079\u3066\u3082\u540c\u3058\u3067\u3042\u308a\u305f\u3044\n\u3042\u3041\u3000\u3053\u3053\u306f\u3069\u3053\u306a\u3093\u3060\u308d\u3046\u306d\n\u3069\u3053\u306b\u884c\u304f\u3093\u3060\u308d\u3046\u306d\u3000\u8ff7\u5b50\u3058\u3083\u306a\u3044\u3093\u3060\n\n\u5d50\u306e\u4e2d\u3092\u3053\u3053\u307e\u3067\u6765\u305f\u3093\u3060\n\u5d50\u306e\u4e2d\u3092\u3053\u3053\u307e\u3067\u6765\u305f\u3093\u3060\n\u30ab\u30a6\u30f3\u30c8\u304b\u3089\u305b\u30fc\u306e\u3067\u606f\u3092\u8aad\u307f\u3042\u3063\u3066\n\u6ce3\u3044\u305f\u308a\u6012\u3063\u305f\u308a\u7b11\u3063\u305f\u308a\u306e\u5168\u90e8\u3067\n\n\u5d50\u306e\u4e2d\u3092\u3053\u3053\u307e\u3067\u6765\u305f\u3093\u3060\n\u51fa\u4f1a\u3063\u3066\u751f\u307e\u308c\u305f\u5149 \u8ffd\u3044\u304b\u3051\u3066\n\u5d50\u306e\u4e2d\u3092\u3069\u3053\u307e\u3067\u3082\u884c\u304f\u3093\u3060\n\u8d64\u3044\u661f\u4e26\u3079\u3066\u3069\u3053\u307e\u3067\u3082\u884c\u304f\u3093\u3060Embed"
+   }
+  },
+  {
+   "number": 7,
+   "song": {
+    "_type": "song",
+    "annotation_count": 0,
+    "api_path": "/songs/5103482",
+    "artist_names": "BUMP OF CHICKEN",
+    "full_title": "\u30b7\u30ea\u30a6\u30b9 (Sirius) by\u00a0BUMP\u00a0OF CHICKEN",
+    "header_image_thumbnail_url": "https://images.genius.com/553369c7100725fcb73a026e6a041ed8.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/553369c7100725fcb73a026e6a041ed8.800x800x1.jpg",
+    "id": 5103482,
+    "instrumental": false,
+    "lyrics_owner_id": 4197937,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1602126638,
+    "path": "/Bump-of-chicken-sirius-lyrics",
+    "primary_artist_names": "BUMP OF CHICKEN",
+    "pyongs_count": null,
+    "relationships_index_url": "https://genius.com/Bump-of-chicken-sirius-sample",
+    "release_date_components": {
+     "year": 2018,
+     "month": 9,
+     "day": 24
+    },
+    "release_date_for_display": "September 24, 2018",
+    "release_date_with_abbreviated_month_for_display": "Sep. 24, 2018",
+    "song_art_image_thumbnail_url": "https://images.genius.com/553369c7100725fcb73a026e6a041ed8.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/553369c7100725fcb73a026e6a041ed8.800x800x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 0,
+     "hot": false
+    },
+    "title": "\u30b7\u30ea\u30a6\u30b9 (Sirius)",
+    "title_with_featured": "\u30b7\u30ea\u30a6\u30b9 (Sirius)",
+    "updated_by_human_at": 1723993730,
+    "url": "https://genius.com/Bump-of-chicken-sirius-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/355179",
+     "header_image_url": "https://images.genius.com/2b7b5ad072c3b5fe08f80b3e9fadac20.1000x424x1.jpg",
+     "id": 355179,
+     "image_url": "https://images.genius.com/4086c848b2ede6ea27cb9da0f99e1275.640x640x1.jpg",
+     "index_character": "b",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "BUMP OF CHICKEN",
+     "slug": "Bump-of-chicken",
+     "url": "https://genius.com/artists/Bump-of-chicken"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/355179",
+      "header_image_url": "https://images.genius.com/2b7b5ad072c3b5fe08f80b3e9fadac20.1000x424x1.jpg",
+      "id": 355179,
+      "image_url": "https://images.genius.com/4086c848b2ede6ea27cb9da0f99e1275.640x640x1.jpg",
+      "index_character": "b",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "BUMP OF CHICKEN",
+      "slug": "Bump-of-chicken",
+      "url": "https://genius.com/artists/Bump-of-chicken"
+     }
+    ],
+    "artist": "BUMP OF CHICKEN",
+    "lyrics": "2 Contributors\u30b7\u30ea\u30a6\u30b9 (Sirius) Lyrics\u200bBUMP OF CHICKEN\u300c\u30b7\u30ea\u30a6\u30b9\u300d\u6b4c\u8a5e\n\n\u7d04\u675f\u3092\u3057\u305f\u3060\u308d\u3046\u3000\u9065\u304b\u306a\u3000\u3069\u3053\u304b\u3000\u3044\u3064\u304b\n\u540d\u524d\u3055\u3048\u5fd8\u308c\u3066\u3082\u3000\u6d88\u3048\u306a\u3044\u706f\u706b\n\n\u606f\u3092\u3059\u308b\u3088\u3046\u306b\u56de\u308b\u661f\u306b\u6355\u307e\u3063\u3066\n\u3053\u306e\u4f53\u306e\u64cd\u7e26\u3060\u3051\u3067\u7cbe\u4e00\u676f\n\n\u7d76\u671b\u306e\u6700\u679c\u3066\u3000\u5e0c\u671b\u306e\u5e95\n\u900f\u660e\u306a\u601d\u3044\u306e\u3000\u76fe\u3068\u5263\n\n\u3053\u308c\u306f\u8ab0\u306e\u30b9\u30c8\u30fc\u30ea\u30fc\u3000\u3069\u3046\u3084\u3063\u3066\u59cb\u307e\u3063\u305f\u4e16\u754c\n\u3053\u3053\u307e\u3067\u751f\u304d\u5ef6\u3073\u305f\u3000\u547d\u3067\u7b54\u3048\u3066\n\u305d\u306e\u5fc3\u3067\u9078\u3093\u3067\u3000\u305d\u306e\u58f0\u3067\u53eb\u3093\u3067\n\u4e00\u756a\u597d\u304d\u306a\u3082\u306e\u3092\u3000\u305d\u306e\u624b\u3067\u96e2\u3055\u306a\u3044\u3067\n\n\u3084\u3063\u3068\u3000\u3084\u3063\u3068\u3000\u898b\u3064\u3051\u305f\u3088\n\u3061\u3083\u3093\u3068\u3000\u3061\u3083\u3093\u3068\u3000\u8074\u3053\u3048\u305f\u3088\n\n\u53d7\u3051\u53d6\u3063\u305f\u81ea\u7531\u306b\u3000\u5e30\u308a\u9053\u596a\u308f\u308c\u3066\n\u6765\u308b\u306f\u305a\u306e\u306a\u3044\u8fce\u3048\u3092\u3000\u3057\u3070\u3089\u304f\u5f85\u3063\u3066\u3044\u305f\n\n\u6307\u5148\u3067\u89e6\u308c\u305f\u3000\u5fae\u304b\u3067\u3082\u78ba\u304b\u3060\u3063\u305f\n\u7729\u3057\u3044\u6e29\u5ea6\u3060\u3051\u304c\u3000\u65b9\u5411\u3092\u793a\u3059\u3088\n\n\u7406\u7531\u3082\u610f\u5473\u3082\u3000\u4fa1\u5024\u3092\u5931\u304f\u3057\u3066\n\u4f55\u3092\u63a2\u3059\u306e\u3000\u93e1\u306e\u524d\nYou might also like\u9694\u305f\u308a\u3092\u7815\u3044\u3066\u3000\u3069\u3046\u305e\u3000\u3044\u3063\u3066\u304a\u3044\u3067\n\u3069\u308c\u3060\u3051\u81c6\u75c5\u3067\u3082\u3000\u6b32\u5f35\u308a\u306e\u52d5\u7269\n\u305d\u306e\u5fc3\u3067\u9078\u3093\u3067\u3000\u305d\u306e\u58f0\u3067\u53eb\u3093\u3067\n\u7121\u69d8\u306b\u8db3\u63bb\u3053\u3046\u3068\u3082\u3000\u8a3c\u3092\u8f1d\u304b\u305b\u3066\n\n\u8a18\u61b6\u306f\u5f8c\u308d\u304b\u3089\u524a\u308c\u3066\u3044\u304f\n\u62fe\u3063\u305f\u3082\u306e\u3082\u7802\u306b\u306a\u3063\u3066\u843d\u3061\u308b\n\u6307\u5148\u3067\u89e6\u308c\u305f\u3000\u6d88\u3048\u306a\u3044\u706f\u706b\n\u7d04\u675f\u3092\u3057\u305f\u3060\u308d\u3046\u3000\u9065\u304b\u306a\u3000\u3069\u3053\u304b\u3000\u3044\u3064\u304b\n\n\u7d76\u671b\u306e\u6700\u679c\u3066\u3000\u5e0c\u671b\u306e\u5e95\n\u52c7\u6c17\u3092\u3042\u3052\u308b\u3000\u93e1\u306e\u524d\u3000\u76fe\u3068\u5263\n\n\u3053\u308c\u306f\u8ab0\u306e\u30b9\u30c8\u30fc\u30ea\u30fc\u3000\u3069\u3046\u3084\u3063\u3066\u59cb\u307e\u3063\u305f\u4e16\u754c\n\u3053\u3053\u307e\u3067\u751f\u304d\u5ef6\u3073\u305f\u3000\u547d\u3067\u7b54\u3048\u3066\n\u305d\u306e\u5fc3\u3067\u9078\u3093\u3067\u3000\u305d\u306e\u58f0\u3067\u53eb\u3093\u3067\n\u540d\u524d\u3055\u3048\u5fd8\u308c\u3066\u3082\u3000\u4f55\u5ea6\u3067\u3082\u547c\u3093\u3067\n\n\u9694\u305f\u308a\u3092\u7815\u3044\u3066\u3000\u3069\u3046\u305e\u3000\u3044\u3063\u3066\u304a\u3044\u3067\n\u773c\u5dee\u3057\u306e\u30b7\u30ea\u30a6\u30b9\u3000\u6b32\u5f35\u308a\u306e\u52d5\u7269\n\u3053\u308c\u306f\u8ab0\u306e\u30b9\u30c8\u30fc\u30ea\u30fc\u3000\u3069\u3046\u3084\u3063\u3066\u59cb\u307e\u3063\u305f\u4e16\u754c\n\u4e00\u756a\u597d\u304d\u306a\u3082\u306e\u3092\u3000\u305d\u306e\u624b\u3067\u96e2\u3055\u306a\u3044\u3067\n\n\u3084\u3063\u3068\u3000\u3084\u3063\u3068\u3000\u898b\u3064\u3051\u305f\u3088\n\u3061\u3083\u3093\u3068\u3000\u3061\u3083\u3093\u3068\u3000\u8074\u3053\u3048\u305f\u3088\n\u3069\u3053\u304b\u3089\u3000\u3044\u3064\u304b\u3089\u3082\n\u305f\u3060\u3044\u307e\u3000\u304a\u304b\u3048\u308aEmbed"
+   }
+  },
+  {
+   "number": 8,
+   "song": {
+    "_type": "song",
+    "annotation_count": 0,
+    "api_path": "/songs/3267086",
+    "artist_names": "BUMP OF CHICKEN",
+    "full_title": "\u30a2\u30ea\u30a2 (Aria) by\u00a0BUMP\u00a0OF CHICKEN",
+    "header_image_thumbnail_url": "https://images.genius.com/65bd9e47ccf93ba1be546baf87c12d35.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/65bd9e47ccf93ba1be546baf87c12d35.700x700x1.jpg",
+    "id": 3267086,
+    "instrumental": false,
+    "lyrics_owner_id": 1931244,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1602126683,
+    "path": "/Bump-of-chicken-aria-lyrics",
+    "primary_artist_names": "BUMP OF CHICKEN",
+    "pyongs_count": null,
+    "relationships_index_url": "https://genius.com/Bump-of-chicken-aria-sample",
+    "release_date_components": {
+     "year": 2016,
+     "month": 4,
+     "day": 17
+    },
+    "release_date_for_display": "April 17, 2016",
+    "release_date_with_abbreviated_month_for_display": "Apr. 17, 2016",
+    "song_art_image_thumbnail_url": "https://images.genius.com/65bd9e47ccf93ba1be546baf87c12d35.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/65bd9e47ccf93ba1be546baf87c12d35.700x700x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 0,
+     "hot": false
+    },
+    "title": "\u30a2\u30ea\u30a2 (Aria)",
+    "title_with_featured": "\u30a2\u30ea\u30a2 (Aria)",
+    "updated_by_human_at": 1723993670,
+    "url": "https://genius.com/Bump-of-chicken-aria-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/355179",
+     "header_image_url": "https://images.genius.com/2b7b5ad072c3b5fe08f80b3e9fadac20.1000x424x1.jpg",
+     "id": 355179,
+     "image_url": "https://images.genius.com/4086c848b2ede6ea27cb9da0f99e1275.640x640x1.jpg",
+     "index_character": "b",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "BUMP OF CHICKEN",
+     "slug": "Bump-of-chicken",
+     "url": "https://genius.com/artists/Bump-of-chicken"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/355179",
+      "header_image_url": "https://images.genius.com/2b7b5ad072c3b5fe08f80b3e9fadac20.1000x424x1.jpg",
+      "id": 355179,
+      "image_url": "https://images.genius.com/4086c848b2ede6ea27cb9da0f99e1275.640x640x1.jpg",
+      "index_character": "b",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "BUMP OF CHICKEN",
+      "slug": "Bump-of-chicken",
+      "url": "https://genius.com/artists/Bump-of-chicken"
+     }
+    ],
+    "artist": "BUMP OF CHICKEN",
+    "lyrics": "3 Contributors\u30a2\u30ea\u30a2 (Aria) Lyrics\u200bBUMP OF CHICKEN\u300c\u30a2\u30ea\u30a2\u300d\u6b4c\u8a5e\n\n\u3042\u306e\u65e5\u306e\u4e9b\u7d30\u306a\u305f\u3081\u606f\u306f\n\u3056\u308f\u3081\u304d\u306b\u98f2\u307e\u308c\n\u8ff7\u5b50\u306b\u306a\u3063\u305f\u3088\n\n\u3042\u308a\u3075\u308c\u305f\u985e\u3060\u3063\u305f\u304b\u3089\n\u3069\u3053\u306b\u3053\u308d\u304c\u3063\u305f\u3063\u3066\n\u305d\u306e\u666f\u8272\u306e\u65e5\u5e38\n\n\u8a00\u8449\u306f\u4e0a\u624b\u306b\u4f7f\u3063\u305f\u3089\n\u6c17\u6301\u3061\u306e\u5074\u307e\u3067\n\u8fd1\u4ed8\u3051\u308b\u3051\u308c\u3069\n\n\u540c\u3058\u3082\u306e\u306b\u306f\u306a\u308c\u306a\u3044\n\u62b1\u3048\u3066\u3044\u308b\u3046\u3061\u306b\n\u8ff7\u5b50\u306b\u306a\u3063\u305f\u3088\n\n\u50d5\u3089\u306f\u304a\u63c3\u3044\u306e\u670d\u3092\u7740\u305f\n\u5225\u3005\u306e\u547c\u5438\n\u9055\u3046\u751f\u304d\u7269\n\n\u898b\u3064\u3051\u305f\u3089\n\u93e1\u306e\u3088\u3046\u306b\n\u898b\u3064\u3051\u3066\u304f\u308c\u305f\u4e8b\nYou might also like\u89e6\u3063\u305f\u3089\n\u5fdc\u3048\u308b\u3088\u3046\u306b\n\u89e6\u3063\u3066\u304f\u308c\u305f\u4e8b\n\n\u4f55\u3082\u8a00\u3048\u306a\u304b\u3063\u305f\n\u4f55\u3092\u8a00\u3048\u306a\u304b\u3063\u305f\n\n\u66f2\u304c\u3063\u3066\u843d\u3061\u305f\u7d19\u98db\u884c\u6a5f\n\u898b\u3064\u3081\u8fd4\u305b\u306a\u304b\u3063\u305f\n\u307e\u3063\u3059\u3050\u306a\u77b3\n\n\u5915\u713c\u3051\u3068\u30b5\u30a4\u30ec\u30f3\n\u5e30\u308a\u9053\n\u3082\u3046\u75db\u307e\u306a\u3044\u3051\u3069\n\u6cbb\u3089\u306a\u3044\u50b7\n\n\u3042\u306e\u65e5\u306e\u4e9b\u7d30\u306a\u305f\u3081\u606f\u306f\n\u3056\u308f\u3081\u304d\u306b\u98f2\u307e\u308c\n\u8ff7\u5b50\u306b\u306a\u3063\u305f\u3088\n\n\u540d\u524d\u3092\u547c\u3093\u3067\u304f\u308c\u305f\u3060\u3051\u3067\n\u541b\u3068\u50d5\u3060\u3051\u306e\n\u4e16\u754c\u306b\u306a\u3063\u305f\u3088\n\n\u50d5\u3089\u306e\u9593\u306b\u306f\u3055\u3088\u306a\u3089\u304c\n\u51fa\u4f1a\u3063\u305f\u6642\u304b\u3089\u80b2\u3063\u3066\u3044\u305f\n\u7b11\u3046\u304b\u3089\n\u93e1\u306e\u3088\u3046\u306b\n\u6d99\u304c\u3053\u307c\u308c\u305f\u3088\n\n\u4e00\u5ea6\u3067\u3082\n\u5fc3\u306e\u5965\u304c\n\u7e4b\u304c\u3063\u305f\u6c17\u304c\u3057\u305f\u3088\n\n\u898b\u3064\u3081\u8fd4\u305b\u306a\u304b\u3063\u305f\n\u5fd8\u308c\u305f\u304f\u306a\u304b\u3063\u305f\n\n\u7b11\u3046\u304b\u3089\n\u93e1\u306e\u3088\u3046\u306b\n\u6d99\u304c\u3053\u307c\u308c\u305f\u3088\n\n\u4e00\u5ea6\u3067\u3082\n\u5fc3\u306e\u5965\u304c\n\u7e4b\u304c\u3063\u305f\u6c17\u304c\u3057\u305f\u3088\n\n\u51b7\u3048\u305f\u624b\u304c\n\u96e2\u308c\u305f\u3042\u3068\u3082\n\u307e\u3060\u305a\u3063\u3068\u71b1\u3044\u3053\u3068\n\n\u898b\u3064\u3051\u305f\u3089\n\u93e1\u306e\u3088\u3046\u306b\n\u898b\u3064\u3051\u3066\u304f\u308c\u305f\u4e8b\n\u3042\u306e\u65e5\n\u541b\u304c\u3044\u305f\n\u3042\u306e\u65e5\n\u541b\u3068\u3044\u305f\n\n\u4f55\u3082\u8a00\u3048\u306a\u304b\u3063\u305f\n\u5fd8\u308c\u305f\u304f\u306a\u304b\u3063\u305fEmbed"
+   }
+  },
+  {
+   "number": 9,
+   "song": {
+    "_type": "song",
+    "annotation_count": 0,
+    "api_path": "/songs/5149622",
+    "artist_names": "BUMP OF CHICKEN",
+    "full_title": "\u8a71\u304c\u3057\u305f\u3044\u3088  (Hanashi ga Shitai yo) by\u00a0BUMP\u00a0OF CHICKEN",
+    "header_image_thumbnail_url": "https://images.genius.com/b9ab70912b6137415a304415f0cbe40c.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/b9ab70912b6137415a304415f0cbe40c.1000x1000x1.jpg",
+    "id": 5149622,
+    "instrumental": false,
+    "lyrics_owner_id": 4197937,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1602126740,
+    "path": "/Bump-of-chicken-hanashi-ga-shitai-yo-lyrics",
+    "primary_artist_names": "BUMP OF CHICKEN",
+    "pyongs_count": null,
+    "relationships_index_url": "https://genius.com/Bump-of-chicken-hanashi-ga-shitai-yo-sample",
+    "release_date_components": {
+     "year": 2018,
+     "month": 11,
+     "day": 14
+    },
+    "release_date_for_display": "November 14, 2018",
+    "release_date_with_abbreviated_month_for_display": "Nov. 14, 2018",
+    "song_art_image_thumbnail_url": "https://images.genius.com/b9ab70912b6137415a304415f0cbe40c.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/b9ab70912b6137415a304415f0cbe40c.1000x1000x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 0,
+     "hot": false
+    },
+    "title": "\u8a71\u304c\u3057\u305f\u3044\u3088  (Hanashi ga Shitai yo)",
+    "title_with_featured": "\u8a71\u304c\u3057\u305f\u3044\u3088  (Hanashi ga Shitai yo)",
+    "updated_by_human_at": 1723993784,
+    "url": "https://genius.com/Bump-of-chicken-hanashi-ga-shitai-yo-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/355179",
+     "header_image_url": "https://images.genius.com/2b7b5ad072c3b5fe08f80b3e9fadac20.1000x424x1.jpg",
+     "id": 355179,
+     "image_url": "https://images.genius.com/4086c848b2ede6ea27cb9da0f99e1275.640x640x1.jpg",
+     "index_character": "b",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "BUMP OF CHICKEN",
+     "slug": "Bump-of-chicken",
+     "url": "https://genius.com/artists/Bump-of-chicken"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/355179",
+      "header_image_url": "https://images.genius.com/2b7b5ad072c3b5fe08f80b3e9fadac20.1000x424x1.jpg",
+      "id": 355179,
+      "image_url": "https://images.genius.com/4086c848b2ede6ea27cb9da0f99e1275.640x640x1.jpg",
+      "index_character": "b",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "BUMP OF CHICKEN",
+      "slug": "Bump-of-chicken",
+      "url": "https://genius.com/artists/Bump-of-chicken"
+     }
+    ],
+    "artist": "BUMP OF CHICKEN",
+    "lyrics": "2 Contributors\u8a71\u304c\u3057\u305f\u3044\u3088  (Hanashi ga Shitai yo) Lyrics\u200bBUMP OF CHICKEN\u300c\u8a71\u304c\u3057\u305f\u3044\u3088\u300d\u6b4c\u8a5e\n\n\u6301\u3066\u4f59\u3057\u305f\u624b\u3092\u3000\u81ea\u5206\u3054\u3068\u30dd\u30b1\u30c3\u30c8\u306b\u96a0\u3057\u305f\n\u30d0\u30b9\u304c\u6765\u308b\u307e\u3067\u306e\u9593\u306e\u3000\u304a\u307e\u3051\u307f\u305f\u3044\u306a\u6642\u9593\n\n\u8857\u304c\u7acb\u3066\u308b\u751f\u6d3b\u306e\u97f3\u306b\u3000\u4e00\u4eba\u306b\u3055\u308c\u305f\n\u30ac\u30e0\u3068\u4e8c\u4eba\u306b\u306a\u308d\u3046\u3000\u541b\u306e\u82e6\u624b\u3060\u3063\u305f\u5473\n\n\u3060\u3081\u3060\u3088\u3001\u3068\u3000\u3044\u3044\u3088\u3001\u3068\u3092\u3000\u5f80\u5fa9\u3059\u308b\u4fe1\u53f7\u6a5f\n\u6b62\u307e\u3063\u305f\u308a\u52d5\u3044\u305f\u308a\u3000\u540c\u3058\u3088\u3046\u306b\u3057\u3066\u3044\u3066\u3082\u4ed6\u4eba\u540c\u58eb\n\u5143\u6c17\u3067\u3044\u308b\u304b\u306a\n\n\u3053\u306e\u77ac\u9593\u306b\u3069\u3093\u306a\u9854\u3092\u3057\u3066\u3044\u305f\u3060\u308d\u3046\n\u4e00\u4f53\u3069\u3093\u306a\u8a00\u8449\u3092\u3044\u304f\u3064\u898b\u3064\u3051\u305f\u3060\u308d\u3046\n\u3042\u3042\u3000\u541b\u304c\u3053\u3053\u306b\u3044\u305f\u3089\u3000\u541b\u304c\u3053\u3053\u306b\u3044\u305f\u3089\n\u8a71\u304c\u3057\u305f\u3044\u3088\n\n\u30dc\u30a4\u30b8\u30e3\u30fc\u306f\u592a\u967d\u7cfb\u5916\u306b\u98db\u3073\u51fa\u3057\u305f\u4eca\u3082\n\u79d2\u901f10\u4f55\u30ad\u30ed\u3060\u3063\u3051\u3000\u305a\u3063\u3068\u65c5\u3092\u7d9a\u3051\u3066\u3044\u308b\n\n\u305d\u308c\u306e\u4f55\u304c\u3069\u3046\u3060\u3068\u3044\u3046\u306e\u304b\u3000\u308f\u304b\u3089\u306a\u3044\u3051\u3069\u6025\u306b\n\u81ea\u5206\u306e\u547c\u5438\u306e\u97f3\u306b\u3000\u8033\u6f84\u307e\u3057\u3066\u78ba\u304b\u3081\u305f\n\n\u4f53\u3068\u5fc3\u306e\u3069\u3063\u3061\u306b\u3000\u3053\u3053\u307e\u3067\u9023\u308c\u3066\u6765\u3089\u308c\u305f\u3093\u3060\u308d\u3046\n\u3069\u3063\u3061\u3082\u304f\u305f\u3073\u308c\u3066\u3044\u308b\u3051\u3069\n\u5e73\u6c17\u3055\u3000\u304a\u85ac\u8cb0\u3063\u305f\u3057\n\u98f2\u307e\u306a\u3044\u3057\nYou might also like\u3069\u3046\u3084\u3063\u305f\u3063\u3066\u623b\u308c\u306a\u3044\u306e\u306f\u4e00\u7dd2\u3060\u3088\n\u3058\u3083\u3042\u3053\u3046\u3044\u3046\u4e8b\u3092\u601d\u3063\u3066\u3044\u308b\u306e\u3082\u4e00\u7dd2\u304c\u3044\u3044\n\u808c\u3092\u64ab\u3067\u305f\u4eca\u306e\u98a8\u304c\u3000\u5e95\u306e\u629c\u3051\u305f\u7a7a\u304c\n\u3042\u306e\u65e5\u3068\u4f3c\u3066\u3044\u308b\u306e\u306b\n\n\u6297\u3044\u3088\u3046\u3082\u306a\u304f\u5fd8\u308c\u306a\u304c\u3089\u751f\u304d\u3066\u3044\u308b\u3088\n\u306d\u3047\u4e00\u4f53\u3069\u3093\u306a\u8a00\u8449\u306b\u50d5\u3089\u51fa\u4f1a\u3063\u3066\u3044\u305f\u3093\u3060\u308d\u3046\n\u9f3b\u3067\u611b\u60f3\u7b11\u3044\u3000\u7dba\u9e97\u4e8b\u3000\u590f\u306e\u7d42\u308f\u308b\u5302\u3044\n\u307e\u3060\u899a\u3048\u3066\u3044\u308b\u3088\n\u8a71\u304c\u3057\u305f\u3044\u3088\n\n\u4eca\u307e\u3067\u306e\u306a\u3093\u3060\u304b\u3093\u3060\u3068\u304b\u3000\u3053\u308c\u304b\u3089\u304c\u3069\u3046\u3068\u304b\n\u5fc3\u304b\u3089\u3069\u3046\u3067\u3082\u3044\u3044\u3093\u3060\u3000\u305d\u3093\u306a\u4e8b\u306f\n\n\u3044\u3084\u3000\u3069\u3046\u3067\u3082\u3063\u3066\u305d\u308a\u3083\u8a00\u3044\u904e\u304e\u304b\u3082\u3000\u3044\u3084\u3000\u8a00\u3044\u904e\u304e\u3060\u3051\u3069\n\u305d\u3046\u8a00\u3063\u3066\u3084\u308a\u305f\u3044\u3093\u3060\u3000\u5927\u4e08\u592b\u3000\u5206\u304b\u3063\u3066\u3044\u308b\n\n\u30ac\u30e0\u3092\u7d19\u306b\u307a\u3063\u3066\u3057\u3066\u3000\u30d0\u30b9\u304c\u6b62\u307e\u308a\u30c9\u30a2\u304c\u958b\u304fEmbed"
+   }
+  },
+  {
+   "number": 10,
+   "song": {
+    "_type": "song",
+    "annotation_count": 0,
+    "api_path": "/songs/3267090",
+    "artist_names": "BUMP OF CHICKEN",
+    "full_title": "\u30a2\u30f3\u30b5\u30fc (Answer) by\u00a0BUMP\u00a0OF CHICKEN",
+    "header_image_thumbnail_url": "https://images.genius.com/3f93ebaecc512f6263dee95a4f3e6222.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/3f93ebaecc512f6263dee95a4f3e6222.500x500x1.jpg",
+    "id": 3267090,
+    "instrumental": false,
+    "lyrics_owner_id": 1931244,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1602126809,
+    "path": "/Bump-of-chicken-answer-lyrics",
+    "primary_artist_names": "BUMP OF CHICKEN",
+    "pyongs_count": null,
+    "relationships_index_url": "https://genius.com/Bump-of-chicken-answer-sample",
+    "release_date_components": {
+     "year": 2016,
+     "month": 12,
+     "day": 21
+    },
+    "release_date_for_display": "December 21, 2016",
+    "release_date_with_abbreviated_month_for_display": "Dec. 21, 2016",
+    "song_art_image_thumbnail_url": "https://images.genius.com/3f93ebaecc512f6263dee95a4f3e6222.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/3f93ebaecc512f6263dee95a4f3e6222.500x500x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 0,
+     "hot": false
+    },
+    "title": "\u30a2\u30f3\u30b5\u30fc (Answer)",
+    "title_with_featured": "\u30a2\u30f3\u30b5\u30fc (Answer)",
+    "updated_by_human_at": 1723993669,
+    "url": "https://genius.com/Bump-of-chicken-answer-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/355179",
+     "header_image_url": "https://images.genius.com/2b7b5ad072c3b5fe08f80b3e9fadac20.1000x424x1.jpg",
+     "id": 355179,
+     "image_url": "https://images.genius.com/4086c848b2ede6ea27cb9da0f99e1275.640x640x1.jpg",
+     "index_character": "b",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "BUMP OF CHICKEN",
+     "slug": "Bump-of-chicken",
+     "url": "https://genius.com/artists/Bump-of-chicken"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/355179",
+      "header_image_url": "https://images.genius.com/2b7b5ad072c3b5fe08f80b3e9fadac20.1000x424x1.jpg",
+      "id": 355179,
+      "image_url": "https://images.genius.com/4086c848b2ede6ea27cb9da0f99e1275.640x640x1.jpg",
+      "index_character": "b",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "BUMP OF CHICKEN",
+      "slug": "Bump-of-chicken",
+      "url": "https://genius.com/artists/Bump-of-chicken"
+     }
+    ],
+    "artist": "BUMP OF CHICKEN",
+    "lyrics": "5 ContributorsTranslationsRomanization\u30a2\u30f3\u30b5\u30fc (Answer) Lyrics\u200bBUMP OF CHICKEN\u300c\u30a2\u30f3\u30b5\u30fc\u300d\u6b4c\u8a5e\n\n\u9b54\u6cd5\u306e\u8a00\u8449 \u899a\u3048\u3066\u308b \u8679\u306e\u59cb\u307e\u3063\u305f\u3068\u3053\u308d\n\u3042\u306e\u6642 \u4e16\u754c\u306e\u5168\u3066\u306b \u4e00\u77ac\u3067\u8272\u304c\u4ed8\u3044\u305f\n\u8ee2\u3070\u306a\u3044\u3088\u3046\u306b \u6c17\u3092\u3064\u3051\u3066\n\u3067\u3082 \u3069\u3053\u307e\u3067\u3082\u884c\u304b\u306a\u304d\u3083\n\n\u65e5\u5dee\u3057\u3055\u3048 \u63b4\u3081\u305d\u3046\u306a\u624b\u304c\n\u9177\u304f \u51b7\u305f\u304b\u3063\u305f\u304b\u3089\n\n\u672c\u5f53\u306e\u58f0\u306f \u3044\u3064\u3060\u3063\u3066 \u6b63\u3057\u3044\u9053\u3092\u7167\u3089\u3057\u3066\u308b\n\u306a\u3093\u3060\u3063\u3066 \u7591\u3063\u3066\u308b\u304b\u3089 \u3068\u3066\u3082 \u5f37\u304f \u4fe1\u3058\u3066\u308b\n\n\u5fc3\u81d3\u304c\u52d5\u3044\u3066\u308b\u3053\u3068\u306e\n\u5438\u3063\u3066\u5410\u3044\u3066\u304c\u7d9a\u304f\u3053\u3068\u306e\n\u5fc3\u304c\u305a\u3063\u3068 \u71b1\u3044\u3053\u3068\u306e\n\u78ba\u304b\u306a\u7406\u7531\u3092\n\n\u96f2\u306e\u5411\u3053\u3046\u306e \u9280\u6cb3\u306e\u3088\u3046\u306b\n\u3069\u3063\u304b\u3067 \u7121\u304f\u3057\u305f \u5207\u7b26\u306e\u3088\u3046\u306b\n\u751f\u307e\u308c\u308b\u524d\u306e \u6b74\u53f2\u306e\u3088\u3046\u306b\n\u541b\u304c\u6301\u3063\u3066\u3044\u308b\u304b\u3089\n\n\u305d\u308c\u3060\u3051 \u5206\u304b\u3063\u3066\u308b\n\u50d5\u3060\u3051 \u5206\u304b\u3063\u3066\u308b\nYou might also like\u920d\u304f\u6b8b\u3063\u305f \u75db\u307f\u3068\u304b\n\u3057\u307e\u3063\u3066\u3057\u307e\u3063\u305f \u60f3\u3044\u3068\u304b\n\u6ef2\u3093\u3060\u3063\u3066 \u6d88\u3048\u306a\u3044\u3082\u306e\u3067\n\u753a\u306f\u3067\u304d\u3066\u3044\u308b\n\n\u9b54\u6cd5\u306e\u8a00\u8449 \u899a\u3048\u3066\u308b \u8679\u306e\u8fbf\u308a\u7740\u3044\u305f\u3068\u3053\u308d\n\u8ee2\u3070\u306a\u3044\u3088\u3046\u306b \u6c17\u3092\u3064\u3051\u3066\n\u3067\u3082 \u3069\u3053\u307e\u3067\u3082\u884c\u3051\u308b\u3088\n\n\u306a\u304f\u3057\u305f\u304f\u306a\u3044\u3082\u306e\u3092 \u898b\u3064\u3051\u305f\u3093\u3060\u3063\u3066 \u6c17\u3065\u3044\u305f\u3089\n\u3053\u3093\u306a\u306b\u5b09\u3057\u304f\u306a\u3063\u3066 \u3053\u3093\u306a\u306b\u6016\u304f\u306a\u308b\u306a\u3093\u3066\n\n\u60f3\u50cf\u3064\u304b\u306a\u3044 \u6628\u65e5\u3092\u8d85\u3048\u3066\n\u305d\u306e\u5ef6\u9577\u306e \u660e\u65e5\u3092\u62b1\u3048\u3066\n\u5c0f\u3055\u306a\u80a9 \u9707\u3048\u308b\u4eca\n\u305d\u308c\u3067\u3082\u7b11\u3063\u305f\n\n\u8ff7\u8def\u306e\u5965\u306e \u30c0\u30a4\u30e4\u306e\u3088\u3046\u306a\n\u5c4a\u304b\u306a\u304b\u3063\u305f \u98a8\u8239\u306e\u3088\u3046\u306a\n\u6c17\u3065\u3051\u306a\u304b\u3063\u305f \u6d41\u661f\u306e\u3088\u3046\u306a\n\u6d99\u3092\u8cb0\u3063\u305f\n\n\u3060\u304b\u3089 \u3082\u3046 \u5fd8\u308c\u306a\u3044\n\u4e8c\u5ea6\u3068 \u3082\u3046 \u8ff7\u308f\u306a\u3044\n\n\u5fc3\u81d3\u304c \u52d5\u3044\u3066\u308b\u3053\u3068\u306e\n\u5438\u3063\u3066\u5410\u3044\u3066\u304c \u7d9a\u304f\u3053\u3068\u306e\n\u5fc3\u304c\u305a\u3063\u3068 \u71b1\u3044\u3053\u3068\u306e\n\u78ba\u304b\u306a\u7406\u7531\u304c\n\u7802\u6f20\u306e\u7c92\u306e \u3072\u3068\u3064\u3060\u308d\u3046\u3068\n\u6d88\u3048\u3066\u3044\u304f\u96e8\u306e \u3072\u3068\u3064\u3060\u308d\u3046\u3068\n\u8cb0\u3063\u305f \u540d\u3082\u77e5\u3089\u306a\u3044 \u82b1\u306e\u3088\u3046\u306b\n\u4eca \u76ee\u306e\u524d\u306b\u3042\u308b\u304b\u3089\n\n\u305d\u308c\u3060\u3051 \u5206\u304b\u3063\u3066\u308b\n\u50d5\u3060\u3051 \u5206\u304b\u3063\u3066\u308b\n\u3060\u304b\u3089 \u3082\u3046 \u96e2\u308c\u306a\u3044\n\u4e8c\u5ea6\u3068 \u3082\u3046 \u8ff7\u308f\u306a\u3044Embed"
+   }
+  },
+  {
+   "number": 11,
+   "song": {
+    "_type": "song",
+    "annotation_count": 0,
+    "api_path": "/songs/3876235",
+    "artist_names": "BUMP OF CHICKEN",
+    "full_title": "\u671b\u9060\u306e\u30de\u30fc\u30c1 (Bouen no March) by\u00a0BUMP\u00a0OF CHICKEN",
+    "header_image_thumbnail_url": "https://images.genius.com/82caa5645b9abb4601c99dca34fae3f8.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/82caa5645b9abb4601c99dca34fae3f8.800x800x1.jpg",
+    "id": 3876235,
+    "instrumental": false,
+    "lyrics_owner_id": 4426238,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1602126865,
+    "path": "/Bump-of-chicken-bouen-no-march-lyrics",
+    "primary_artist_names": "BUMP OF CHICKEN",
+    "pyongs_count": null,
+    "relationships_index_url": "https://genius.com/Bump-of-chicken-bouen-no-march-sample",
+    "release_date_components": {
+     "year": 2018,
+     "month": 7,
+     "day": 23
+    },
+    "release_date_for_display": "July 23, 2018",
+    "release_date_with_abbreviated_month_for_display": "Jul. 23, 2018",
+    "song_art_image_thumbnail_url": "https://images.genius.com/82caa5645b9abb4601c99dca34fae3f8.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/82caa5645b9abb4601c99dca34fae3f8.800x800x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 0,
+     "hot": false
+    },
+    "title": "\u671b\u9060\u306e\u30de\u30fc\u30c1 (Bouen no March)",
+    "title_with_featured": "\u671b\u9060\u306e\u30de\u30fc\u30c1 (Bouen no March)",
+    "updated_by_human_at": 1723993770,
+    "url": "https://genius.com/Bump-of-chicken-bouen-no-march-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/355179",
+     "header_image_url": "https://images.genius.com/2b7b5ad072c3b5fe08f80b3e9fadac20.1000x424x1.jpg",
+     "id": 355179,
+     "image_url": "https://images.genius.com/4086c848b2ede6ea27cb9da0f99e1275.640x640x1.jpg",
+     "index_character": "b",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "BUMP OF CHICKEN",
+     "slug": "Bump-of-chicken",
+     "url": "https://genius.com/artists/Bump-of-chicken"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/355179",
+      "header_image_url": "https://images.genius.com/2b7b5ad072c3b5fe08f80b3e9fadac20.1000x424x1.jpg",
+      "id": 355179,
+      "image_url": "https://images.genius.com/4086c848b2ede6ea27cb9da0f99e1275.640x640x1.jpg",
+      "index_character": "b",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "BUMP OF CHICKEN",
+      "slug": "Bump-of-chicken",
+      "url": "https://genius.com/artists/Bump-of-chicken"
+     }
+    ],
+    "artist": "BUMP OF CHICKEN",
+    "lyrics": "3 ContributorsTranslationsRomanization\u671b\u9060\u306e\u30de\u30fc\u30c1 (Bouen no March) Lyrics\u200bBUMP OF CHICKEN\u300c\u671b\u9060\u306e\u30de\u30fc\u30c1\u300d\u6b4c\u8a5e\n\n\u4f55\u3092\u8a00\u304a\u3046\u3068\u3057\u305f\u306e\u3000\u305d\u306e\u76ee\u306e\u5965\u306b\u4f55\u3092\u96a0\u3057\u305f\u306e\n\u79d2\u91dd\u306f\u305d\u3053\u3092\u793a\u3057\u3066\u6b62\u307e\u3063\u3066\u3044\u308b\n\n\u6e07\u3044\u305f\u5589\u304c\u9707\u3048\u3066\u3000\u805e\u3053\u3048\u306a\u3044\u8a00\u8449\u3092\u545f\u3044\u3066\u3044\u308b\n\u7686\u96c6\u307e\u3063\u3066\u3000\u5168\u54e1\u3072\u3068\u308a\u307c\u3063\u3061\n\n\u8db3\u97f3\u306e\u9699\u9593\u3000\u4f55\u304b\u843d\u3061\u308b\u97f3\n\u8074\u3053\u3048\u305f\u8033\u306b\u89e6\u308c\u305f\u3000\u6307\u5148\u304c\u71b1\u3044\n\n\u3044\u3053\u3046\u3088\u3000\u3044\u3053\u3046\u3088\n\u5d50\u306e\u4e2d\u3082\u3000\u305d\u306e\u7fbd\u6839\u3067\u98db\u3093\u3067\u304d\u305f\u3093\u3060\n\u3044\u3053\u3046\u3000\u3044\u3053\u3046\u3088\n\n\u5618\u3068\u672c\u5f53\u306b\u56f2\u307e\u308c\u3000\u9003\u3052\u51fa\u3059\u4e8b\u3082\u307e\u307e\u306a\u3089\u306a\u3044\u307e\u307e\n\u79d2\u91dd\u306b\u305d\u3053\u3092\u6307\u3055\u308c\u3066\u6b62\u307e\u3063\u3066\u3044\u308b\n\n\u5931\u3046\u3082\u306e\u306f\u306a\u3044\u3068\u304b\u3000\u304b\u3063\u3053\u3044\u3044\u4e8b\u8a00\u3048\u305f\u3089\u3044\u3044\u3088\u306a\n\u672c\u6c17\u3067\u8ff7\u3063\u3066\u3000\u5fc5\u6b7b\u306b\u30d8\u30e9\u30d8\u30e9\u3057\u3066\u3044\u308b\n\n\u591c\u3092\u51cc\u3052\u3070\u3000\u592a\u967d\u306f\u6607\u308b\u3088\n\u305d\u3046\u3057\u305f\u3089\u5fc5\u305a\u3000\u307e\u305f\u591c\u306b\u306a\u308b\u3051\u3069\n\n\u5e0c\u671b\u3000\u7d76\u671b\n\u3069\u308c\u3060\u3051\u5f85\u3063\u305f\u3063\u3066\u3000\u8ab0\u3082\u8fce\u3048\u306b\u3053\u306a\u3044\u3058\u3083\u306a\u3044\n\u3044\u3053\u3046\u3000\u3044\u3053\u3046\u3088\nYou might also like\u5fc3\u306f\u3044\u3064\u3060\u3063\u3066\u3000\u6b62\u307e\u308c\u306a\u3044\u3067\u6b4c\u3063\u3066\u3044\u308b\n\u6b7b\u3093\u3060\u3088\u3046\u306a\u4eca\u65e5\u3060\u3063\u3066\u3000\u6b7b\u306d\u306a\u3044\u3067\u53eb\u3093\u3067\u3044\u308b\n\n\u4e0e\u3048\u3089\u308c\u305f\u5c45\u5834\u6240\u304c\u3000\u82e6\u3057\u304b\u3063\u305f\u3089\n\u305d\u3093\u306a\u306e\u7591\u3063\u305f\u3063\u3066\u3000\u304b\u307e\u308f\u306a\u3044\u3093\u3060\n\n\u4f53\u306f\u4fe1\u3058\u3066\u3044\u308b\u3088\u3000\u541b\u306e\u5168\u90e8\u3092\n\u53eb\u3073\u305f\u3044\u8a00\u8449\u304c\u8f1d\u3044\u3066\u3044\u308b\n\n\u3044\u3053\u3046\u3088\u3000\u3044\u3053\u3046\u3088\n\u305d\u306e\u58f0\u983c\u308a\u306b\u3000\u63a2\u3059\u304b\u3089\u898b\u3064\u3051\u3066\u307b\u3057\u3044\n\u3044\u3053\u3046\u3000\u3044\u3053\u3046\n\n\u7d76\u671b\u3000\u5e0c\u671b\n\u7fbd\u6839\u306f\u6298\u308c\u306a\u3044\u305c\u3000\u3082\u3068\u3082\u3068\u4ed8\u3044\u3066\u3082\u3044\u306a\u3044\u305c\n\u3044\u3053\u3046\u3000\u3044\u3053\u3046\u3088\n\n\u5fc3\u306f\u3044\u3064\u3060\u3063\u3066\u3000\u6b62\u307e\u308c\u306a\u3044\u3067\u6b4c\u3063\u3066\u3044\u308b\n\u7e70\u308a\u8fd4\u3059\u4eca\u65e5\u3060\u3063\u3066\u3000\u4eca\u65e5\u3060\u3063\u3066\u53eb\u3093\u3067\u3044\u308b\n\n\u5d50\u306e\u4e2d\u3082\u3000\u305d\u306e\u7fbd\u6839\u3067\u98db\u3093\u3067\u304d\u305f\u3093\u3060\n\u3044\u3053\u3046\u3000\u3044\u3053\u3046\u3088\n\n\u3044\u3053\u3046\u3088Embed"
+   }
+  },
+  {
+   "number": 12,
+   "song": {
+    "_type": "song",
+    "annotation_count": 0,
+    "api_path": "/songs/5103417",
+    "artist_names": "BUMP OF CHICKEN",
+    "full_title": "Spica by\u00a0BUMP\u00a0OF CHICKEN",
+    "header_image_thumbnail_url": "https://images.genius.com/b9ab70912b6137415a304415f0cbe40c.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/b9ab70912b6137415a304415f0cbe40c.1000x1000x1.jpg",
+    "id": 5103417,
+    "instrumental": false,
+    "lyrics_owner_id": 4197937,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1602126899,
+    "path": "/Bump-of-chicken-spica-lyrics",
+    "primary_artist_names": "BUMP OF CHICKEN",
+    "pyongs_count": null,
+    "relationships_index_url": "https://genius.com/Bump-of-chicken-spica-sample",
+    "release_date_components": {
+     "year": 2018,
+     "month": 11,
+     "day": 14
+    },
+    "release_date_for_display": "November 14, 2018",
+    "release_date_with_abbreviated_month_for_display": "Nov. 14, 2018",
+    "song_art_image_thumbnail_url": "https://images.genius.com/b9ab70912b6137415a304415f0cbe40c.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/b9ab70912b6137415a304415f0cbe40c.1000x1000x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 0,
+     "hot": false
+    },
+    "title": "Spica",
+    "title_with_featured": "Spica",
+    "updated_by_human_at": 1723993739,
+    "url": "https://genius.com/Bump-of-chicken-spica-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/355179",
+     "header_image_url": "https://images.genius.com/2b7b5ad072c3b5fe08f80b3e9fadac20.1000x424x1.jpg",
+     "id": 355179,
+     "image_url": "https://images.genius.com/4086c848b2ede6ea27cb9da0f99e1275.640x640x1.jpg",
+     "index_character": "b",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "BUMP OF CHICKEN",
+     "slug": "Bump-of-chicken",
+     "url": "https://genius.com/artists/Bump-of-chicken"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/355179",
+      "header_image_url": "https://images.genius.com/2b7b5ad072c3b5fe08f80b3e9fadac20.1000x424x1.jpg",
+      "id": 355179,
+      "image_url": "https://images.genius.com/4086c848b2ede6ea27cb9da0f99e1275.640x640x1.jpg",
+      "index_character": "b",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "BUMP OF CHICKEN",
+      "slug": "Bump-of-chicken",
+      "url": "https://genius.com/artists/Bump-of-chicken"
+     }
+    ],
+    "artist": "BUMP OF CHICKEN",
+    "lyrics": "2 ContributorsSpica Lyrics\u200bBUMP OF CHICKEN\u300cSpica\u300d\u6b4c\u8a5e\n\n\u540d\u524d\u3072\u3068\u3064\u3000\u80f8\u306e\u5965\u306b\u3000\u9784\u3068\u306f\u5225\u306b\u6301\u3063\u3066\u304d\u305f\u3088\n\u58f0\u306b\u51fa\u305b\u3070\u9ce5\u306b\u306a\u3063\u3066\u3000\u541b\u3078\u3068\u5411\u304b\u3046\u540d\u524d\u3072\u3068\u3064\n\n\u4f1d\u3048\u305f\u3044\u4e8b\u3000\u8a00\u3048\u306a\u3044\u307e\u307e\u3000\u6d88\u3048\u305f\u3089\u3068\u601d\u3046\u3068\u6016\u304f\u306a\u3063\u3066\n\u51fa\u6765\u308b\u3060\u3051\u9811\u5f35\u308b\u3051\u3069\u3000\u3069\u3046\u3057\u3066\u3044\u3064\u307e\u3067\u3082\u4e0b\u624b\u306a\u3093\u3060\u308d\u3046\n\n\u96e8\u304c\u964d\u3063\u3066\u3082\u3000\u305d\u308c\u304c\u6b62\u3093\u3067\u3082\u3000\u541b\u3092\u6700\u521d\u306b\u601d\u3044\u51fa\u3059\u3088\n\n\u624b\u3092\u3068\u3063\u305f\u6642\u3000\u305d\u306e\u7e4b\u304e\u76ee\u304c\u3000\u50d5\u306e\u4e16\u754c\u306e\u771f\u3093\u4e2d\u306b\u306a\u3063\u305f\n\u3042\u3041\u3000\u3060\u304b\u3089\u751f\u304d\u3066\u304d\u305f\u306e\u304b\u3063\u3066\u3000\u601d\u3048\u308b\u307b\u3069\u306e\u4e8b\u3060\u3063\u305f\n\n\u3069\u3053\u304b\u3089\u3060\u3063\u3066\u3000\u5e30\u3063\u3066\u3053\u3089\u308c\u308b\n\n\u6d99\u306b\u306f\u610f\u5473\u304c\u3042\u3063\u3066\u3082\u3000\u8a00\u8449\u306b\u76f4\u305b\u306a\u3044\u5834\u5408\u3082\u591a\u304f\u3066\n\u3053\u307c\u308c\u305f\u3089\u53d7\u3051\u6b62\u3081\u308b\u3088\u3000\u305d\u3046\u3059\u308c\u3070\u4f55\u6545\u304b\u3000\u3061\u3083\u3093\u3068\u5206\u304b\u308b\u304b\u3089\n\n\u601d\u3044\u51fa\u304c\u3000\u97f3\u304c\u3000\u5149\u304c\u3000\u547d\u306e\u3044\u305f\u305a\u3089\u306b\u596a\u308f\u308c\u3066\u3082\n\u540d\u524d\u3072\u3068\u3064\u3000\u80f8\u306e\u5965\u306b\u3000\u541b\u3078\u3068\u5411\u304b\u3046\u540d\u524d\u3072\u3068\u3064\n\n\u7d04\u675f\u304c\u751f\u307e\u308c\u305f\u6642\u306e\u3000\u7b11\u3063\u305f\u9854\u304c\u5b09\u3057\u304b\u3063\u305f\u3088\n\n\u7d42\u308f\u308a\u306e\u306a\u3044\u95c7\u306b\u98f2\u307e\u308c\u305f\u3063\u3066\u3000\u4fe1\u3058\u3066\u304f\u308c\u308b\u304b\u3089\u7acb\u3063\u3066\u3044\u3089\u308c\u308b\n\u63cf\u3044\u305f\u672a\u6765\u3068\u3000\u3069\u308c\u307b\u3069\u9055\u304a\u3046\u3068\u3000\u9593\u9055\u3044\u3058\u3083\u306a\u3044\u3000\u4eca\u3000\u541b\u304c\u3044\u308b\nYou might also like\u3069\u3093\u306a\u30c9\u30a2\u3082\u3000\u305b\u30fc\u306e\u3067\u958b\u3051\u308b\n\n\u624b\u3092\u3068\u3063\u305f\u6642\u3000\u305d\u306e\u7e4b\u304e\u76ee\u304c\u3000\u50d5\u306e\u4e16\u754c\u306e\u771f\u3093\u4e2d\u306b\u306a\u3063\u305f\n\u3042\u3041\u3000\u3060\u304b\u3089\u751f\u304d\u3066\u304d\u305f\u306e\u304b\u3063\u3066\u3000\u601d\u3048\u308b\u307b\u3069\u306e\u4e8b\u3060\u3063\u305f\n\n\u6c5a\u308c\u3066\u3082\u3000\u919c\u304f\u898b\u3048\u3066\u3082\u3000\u5351\u602f\u3067\u3082\u3000\u5f37\u304f\u62b1\u304d\u3057\u3081\u308b\u3088\n\u624b\u3092\u3068\u3063\u305f\u6642\u3000\u305d\u306e\u7e4b\u304e\u76ee\u304c\u3000\u50d5\u306e\u4e16\u754c\u306e\u771f\u3093\u4e2d\u306b\u306a\u3063\u305f\n\n\u3069\u3053\u304b\u3089\u3060\u3063\u3066\u3000\u5e30\u3063\u3066\u3053\u3089\u308c\u308b\n\u3044\u3063\u3066\u304d\u307e\u3059Embed"
+   }
+  },
+  {
+   "number": 13,
+   "song": {
+    "_type": "song",
+    "annotation_count": 1,
+    "api_path": "/songs/5149597",
+    "artist_names": "BUMP OF CHICKEN",
+    "full_title": "\u65b0\u4e16\u754c (Shinsekai) by\u00a0BUMP\u00a0OF CHICKEN",
+    "header_image_thumbnail_url": "https://images.genius.com/f5ee14dd3aa6b30a72d64662aa8a6dad.300x300x1.png",
+    "header_image_url": "https://images.genius.com/f5ee14dd3aa6b30a72d64662aa8a6dad.1000x1000x1.png",
+    "id": 5149597,
+    "instrumental": false,
+    "lyrics_owner_id": 4197937,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1675870656,
+    "path": "/Bump-of-chicken-shinsekai-lyrics",
+    "primary_artist_names": "BUMP OF CHICKEN",
+    "pyongs_count": null,
+    "relationships_index_url": "https://genius.com/Bump-of-chicken-shinsekai-sample",
+    "release_date_components": {
+     "year": 2019,
+     "month": 7,
+     "day": 10
+    },
+    "release_date_for_display": "July 10, 2019",
+    "release_date_with_abbreviated_month_for_display": "Jul. 10, 2019",
+    "song_art_image_thumbnail_url": "https://images.genius.com/f5ee14dd3aa6b30a72d64662aa8a6dad.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/f5ee14dd3aa6b30a72d64662aa8a6dad.1000x1000x1.png",
+    "stats": {
+     "unreviewed_annotations": 1,
+     "hot": false
+    },
+    "title": "\u65b0\u4e16\u754c (Shinsekai)",
+    "title_with_featured": "\u65b0\u4e16\u754c (Shinsekai)",
+    "updated_by_human_at": 1723993765,
+    "url": "https://genius.com/Bump-of-chicken-shinsekai-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/355179",
+     "header_image_url": "https://images.genius.com/2b7b5ad072c3b5fe08f80b3e9fadac20.1000x424x1.jpg",
+     "id": 355179,
+     "image_url": "https://images.genius.com/4086c848b2ede6ea27cb9da0f99e1275.640x640x1.jpg",
+     "index_character": "b",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "BUMP OF CHICKEN",
+     "slug": "Bump-of-chicken",
+     "url": "https://genius.com/artists/Bump-of-chicken"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/355179",
+      "header_image_url": "https://images.genius.com/2b7b5ad072c3b5fe08f80b3e9fadac20.1000x424x1.jpg",
+      "id": 355179,
+      "image_url": "https://images.genius.com/4086c848b2ede6ea27cb9da0f99e1275.640x640x1.jpg",
+      "index_character": "b",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "BUMP OF CHICKEN",
+      "slug": "Bump-of-chicken",
+      "url": "https://genius.com/artists/Bump-of-chicken"
+     }
+    ],
+    "artist": "BUMP OF CHICKEN",
+    "lyrics": "4 ContributorsTranslationsRomanization\u65b0\u4e16\u754c (Shinsekai) Lyrics[\u200bBUMP OF CHICKEN\u300c\u65b0\u4e16\u754c\u300d\u6b4c\u8a5e]\n\n[Intro]\n\u541b\u3068\u4f1a\u3063\u305f\u6642 \u50d5\u306e\u4eca\u65e5\u307e\u3067\u304c\u610f\u5473\u3092\u8cb0\u3063\u305f\u3088\n\n[Verse 1]\n\u982d\u826f\u304f\u306a\u3044\u3051\u308c\u3069\n\u5929\u624d\u306a\u306e\u304b\u3082\u3057\u308c\u306a\u3044\u3088\n\u4e16\u754c\u304c\u306a\u3093\u3067\u3053\u3093\u306a\u306b\u3082\n\u7f8e\u3057\u3044\u306e\u304b\u5206\u304b\u3063\u305f\u304b\u3089\n\u4f8b\u3048\u3070\u3000\u66f2\u304c\u308a\u89d2\n\u305d\u306e\u5148\u306b\u541b\u304c\u3044\u305f\u3089\n\u305d\u3046\u601d\u3046\u3060\u3051\u3067\u3082\u3046\n\u30d7\u30ec\u30bc\u30f3\u30c8\u958b\u3051\u308b\u524d\u306e\u6c17\u5206\n\n[Chorus]\n\u6ce3\u3044\u3066\u3044\u3066\u3082\u6012\u3063\u3066\u3044\u3066\u3082 \u4e00\u756a\u8fd1\u304f\u306b\u3044\u305f\u3044\u3088\n\u306a\u3093\u3060\u3088\u305d\u3093\u306a\u6c5a\u308c\u304f\u3089\u3044 \u4e38\u3054\u3068\u62b1\u304d\u3057\u3081\u308b\u3088\n\u30d9\u30a4\u30d3\u30fc\u30a2\u30a4\u30e9\u30d6\u30e6\u30fc\u3060\u305c\n\u30d9\u30a4\u30d3\u30fc\u30a2\u30a4\u30e9\u30d6\u30e6\u30fc\u3060\n\u3061\u3083\u3093\u3068\u4eca\u65e5\u3082\u76ee\u304c\u899a\u3081\u305f\u306e\u306f\n\u541b\u3068\u7b11\u3046\u305f\u3081\u306a\u3093\u3060\u3088\nYeah, yeah (Ooh-ooh)\n\n[Verse 2]\n\u30cf\u30ba\u30ec\u304f\u3058\u3070\u304b\u308a\u3067\u3082\n\u541b\u3068\u3044\u308b\u50d5\u304c\u4e00\u7b49\u8cde\n\u50d5\u306f\u3053\u308c\u304c\u826f\u3044\u3093\u3060\n\u4f55\u3068\u6bd4\u3079\u3066\u3082\u8ca0\u3051\u306a\u3044\u3093\u3060\n\u4e16\u754c\u306f\u30b7\u30e3\u30dc\u30f3\u7389\u3067\n\u904b\u826f\u304f\u6d88\u3048\u3066\u3044\u306a\u3044\u3060\u3051\n\u3059\u3050\u7d20\u76f4\u306b\u306a\u308c\u308b\u3088\n\u305d\u308c\u304c\u51fa\u6765\u308b\u3088\u3046\u306b\u51fa\u6765\u3066\u3044\u308b\nYou might also like[Chorus]\n\u5929\u6c17\u4e88\u5831\u3069\u3093\u306a\u6642\u3082\n\u50d5\u306f\u6674\u308c \u541b\u304c\u592a\u967d\n\u3053\u306e\u4f53 \u629c\u3051\u6bbb\u306b\u306a\u308b\u65e5\u307e\u3067 \u62b1\u304d\u3057\u3081\u308b\u3088\n\u30d9\u30a4\u30d3\u30fc\u30a2\u30a4\u30e9\u30d6\u30e6\u30fc\u3060\u305c\n\u30d9\u30a4\u30d3\u30fc\u30a2\u30a4\u30e9\u30d6\u30e6\u30fc\u3060\n\u541b\u3068\u4f1a\u3063\u305f\u6642 \u50d5\u306e\u4eca\u65e5\u307e\u3067\u304c\u610f\u5473\u3092\u8cb0\u3063\u305f\u3088\n\n[Bridge]\n\u3082\u3046\u4e00\u5ea6\u7720\u3063\u305f\u3089 \u8d77\u304d\u3089\u308c\u306a\u3044\u304b\u3082\n\u4eca\u304c\u8f1d\u304f\u306e\u306f \u304d\u3063\u3068 \u305d\u3046\u3044\u3046\u4ed5\u639b\u3051\n\u3082\u3046\u4e00\u5ea6\u8d77\u304d\u305f\u3089 \u541b\u304c\u3044\u306a\u3044\u304b\u3082\n\u58f0\u3092\u805e\u304b\u305b\u3066\u3088\n\u30d9\u30a4\u30d3\u30fc\u30a2\u30a4\u30e9\u30d6\u30e6\u30fc\u3060\u305c\n\n[Chorus]\n\u30b1\u30f3\u30ab\u306e\u30b4\u30fc\u30eb\u306f\u4ef2\u76f4\u308a\n\u4e8c\u4eba\u4e09\u811a\u3067\u5411\u304b\u3046\u3088\n\u3044\u3064\u306e\u65e5\u304b \u629c\u3051\u6bbb\u306b\u306a\u3063\u305f\u3089\n\u5f85\u3061\u5408\u308f\u305b\u3057\u3088\u3046\u3088\n\u30d9\u30a4\u30d3\u30fc\u30a2\u30a4\u30e9\u30d6\u30e6\u30fc\u3060\u305c\n\u30d9\u30a4\u30d3\u30fc\u30a2\u30a4\u30e9\u30d6\u30e6\u30fc\u3060\n\u6628\u65e5\u304c\u611b\u3057\u304f\u306a\u3063\u305f\u306e\u306f\n\u305d\u3053\u306b\u3044\u305f\u304b\u3089\u306a\u3093\u3060\u3088\n\u6ce3\u3044\u3066\u3044\u3066\u3082\u6012\u3063\u3066\u3044\u3066\u3082\n\u4e00\u756a\u8fd1\u304f\u306b\u3044\u305f\u3044\u3088\n\u3069\u3093\u306a\u306b\u9060\u304f\u96e2\u308c\u3066\u3082\n\u5b87\u5b99\u3054\u3068\u62b1\u304d\u3057\u3081\u308b\u3088\n\u30d9\u30a4\u30d3\u30fc\u30a2\u30a4\u30e9\u30d6\u30e6\u30fc\u3060\u305c\n\u30d9\u30a4\u30d3\u30fc\u30a2\u30a4\u30e9\u30d6\u30e6\u30fc\u3060\n\u660e\u65e5\u304c\u307e\u305f\u8a2a\u308c\u308b\u306e\u306f\n\u541b\u3068\u751f\u304d\u308b\u305f\u3081\u306a\u3093\u3060\u3088\n[Outro]\n(\u30a2\u30a4\u30e9\u30d6\u30e6\u30fc\u3060\u305c)\n\u50d5\u306e\u4eca\u65e5\u307e\u3067\u304c\u610f\u5473\u3092\u8cb0\u3063\u305f\u3088\n(\u30a2\u30a4\u30e9\u30d6\u30e6\u30fc\u3060\u305c)\n\u50d5\u306e\u4eca\u65e5\u307e\u3067\u304c\u610f\u5473\u3092\u8cb0\u3063\u305f\u3088\n(\u30a2\u30a4\u30e9\u30d6\u30e6\u30fc\u3060\u305c)\nYeah,\u2005yeah\u2005(Ooh)\n(\u30a2\u30a4\u30e9\u30d6\u30e6\u30fc\u3060\u305c)\nYeah, yeahEmbed"
+   }
+  },
+  {
+   "number": 14,
+   "song": {
+    "_type": "song",
+    "annotation_count": 0,
+    "api_path": "/songs/5103525",
+    "artist_names": "BUMP OF CHICKEN",
+    "full_title": "\u6d41\u308c\u661f\u306e\u6b63\u4f53 (Nagareboshi no Shoutai) by\u00a0BUMP\u00a0OF CHICKEN",
+    "header_image_thumbnail_url": "https://images.genius.com/b44c2c3d4d4a3e70ef1b948dca58f1b9.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/b44c2c3d4d4a3e70ef1b948dca58f1b9.800x800x1.jpg",
+    "id": 5103525,
+    "instrumental": false,
+    "lyrics_owner_id": 4197937,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1602127000,
+    "path": "/Bump-of-chicken-nagareboshi-no-shoutai-lyrics",
+    "primary_artist_names": "BUMP OF CHICKEN",
+    "pyongs_count": null,
+    "relationships_index_url": "https://genius.com/Bump-of-chicken-nagareboshi-no-shoutai-sample",
+    "release_date_components": {
+     "year": 2019,
+     "month": 7,
+     "day": 10
+    },
+    "release_date_for_display": "July 10, 2019",
+    "release_date_with_abbreviated_month_for_display": "Jul. 10, 2019",
+    "song_art_image_thumbnail_url": "https://images.genius.com/b44c2c3d4d4a3e70ef1b948dca58f1b9.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/b44c2c3d4d4a3e70ef1b948dca58f1b9.800x800x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 0,
+     "hot": false
+    },
+    "title": "\u6d41\u308c\u661f\u306e\u6b63\u4f53 (Nagareboshi no Shoutai)",
+    "title_with_featured": "\u6d41\u308c\u661f\u306e\u6b63\u4f53 (Nagareboshi no Shoutai)",
+    "updated_by_human_at": 1723993772,
+    "url": "https://genius.com/Bump-of-chicken-nagareboshi-no-shoutai-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/355179",
+     "header_image_url": "https://images.genius.com/2b7b5ad072c3b5fe08f80b3e9fadac20.1000x424x1.jpg",
+     "id": 355179,
+     "image_url": "https://images.genius.com/4086c848b2ede6ea27cb9da0f99e1275.640x640x1.jpg",
+     "index_character": "b",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "BUMP OF CHICKEN",
+     "slug": "Bump-of-chicken",
+     "url": "https://genius.com/artists/Bump-of-chicken"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/355179",
+      "header_image_url": "https://images.genius.com/2b7b5ad072c3b5fe08f80b3e9fadac20.1000x424x1.jpg",
+      "id": 355179,
+      "image_url": "https://images.genius.com/4086c848b2ede6ea27cb9da0f99e1275.640x640x1.jpg",
+      "index_character": "b",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "BUMP OF CHICKEN",
+      "slug": "Bump-of-chicken",
+      "url": "https://genius.com/artists/Bump-of-chicken"
+     }
+    ],
+    "artist": "BUMP OF CHICKEN",
+    "lyrics": "2 Contributors\u6d41\u308c\u661f\u306e\u6b63\u4f53 (Nagareboshi no Shoutai) Lyrics\u200bBUMP OF CHICKEN\u300c\u6d41\u308c\u661f\u306e\u6b63\u4f53\u300d\u6b4c\u8a5e\n\n\u8ab0\u304b\u306e\u80f8\u306e\u591c\u306e\u7a7a\u306b\u3000\u4f1d\u3048\u305f\u3044\u6c17\u6301\u3061\u304c\u751f\u307e\u308c\u305f\u3089\n\u751f\u307e\u308c\u305f\u8a3c\u306e\u5c3e\u3092\u5f15\u3044\u3066\u3000\u4f1d\u3048\u305f\u3044\u8ab0\u304b\u306e\u7a7a\u3078\u5411\u304b\u3046\n\n\u3044\u3064\u3082\u8ff7\u8def\u3000\u7d42\u308f\u3089\u306a\u3044\u30d1\u30ec\u30fc\u30c9\u3000\u6b62\u307e\u3063\u305f\u3089\u6eba\u308c\u308b\n\u30b4\u30fc\u30eb\u306a\u3093\u3066\u308f\u304b\u3089\u306a\u3044\u307e\u307e\u3067\u3000\u3044\u3064\u307e\u3067\u3000\u3069\u3053\u307e\u3067\n\n\u6642\u9593\u3068\u8ddd\u96e2\u3092\u98db\u3073\u8d8a\u3048\u3066\u3000\u541b\u306e\u305d\u306e\u624b\u304b\u3089\u3053\u3053\u307e\u3067\u6765\u305f\n\u7d19\u306b\u66f8\u304b\u308c\u305f\u6587\u5b57\u306e\u8a00\u8449\u306f\u3000\u97f3\u3092\u7acb\u3066\u306a\u3044\u3067\u97ff\u304f\u58f0\n\u305d\u3046\u3084\u3063\u3066\u547c\u3093\u3067\u304f\u308c\u305f\u3060\u308d\u3046\u3000\u898b\u4e0a\u3052\u308c\u3070\u3061\u3083\u3093\u3068\u8074\u3053\u3048\u305f\u3088\n\u50d5\u306e\u4e0a\u306b\u3082\u5c4a\u3044\u305f\u3088\u3046\u306b\u3000\u541b\u306e\u7a7a\u307e\u3067\u5c4a\u3044\u3066\u307b\u3057\u3044\n\n\u305b\u3081\u3066\u541b\u306b\u898b\u3048\u308b\u304f\u3089\u3044\u306b\u306f\u8f1d\u3044\u3066\u307b\u3057\u3044\n\u6d41\u308c\u661f\u306e\u6b63\u4f53\u3092\u50d5\u3089\u306f\u77e5\u3063\u3066\u3044\u308b\n\n\u8db3\u5143\u3092\u3088\u304f\u898b\u3066\u968e\u6bb5\u4e00\u3064\u305a\u3064\u3000\u3069\u308c\u304f\u3089\u3044\u3056\u308f\u3064\u3044\u3066\u3044\u3066\u3082\u3000\u3072\u3068\u308a\n\u80a9\u3092\u64e6\u308b\u3088\u3046\u306b\u907f\u3051\u306a\u304c\u3089\u3000\u4e16\u754c\u306b\u4f55\u5104\u4eba\u3044\u3088\u3046\u3068\u3082\u3000\u3072\u3068\u308a\n\n\u4eca\u65e5\u306f\u4f55\u3082\u306a\u3044\u4e00\u65e5\u3068\u8a00\u3048\u3070\u3000\u305d\u3053\u307e\u3067\u306e\u6bce\u65e5\n\u5897\u3048\u7d9a\u3051\u3066\u6ea2\u308c\u305d\u3046\u306a\u5504\u306e\u6b20\u7247\u305f\u3061\u304c\u3000\u65e9\u304f\u4f1a\u3044\u305f\u304c\u3063\u3066\u9a12\u3050\u3093\u3060\n\n\u5909\u308f\u3089\u306a\u3044\u3067\u5909\u308f\u308c\u306a\u304f\u3066\u3000\u305a\u3063\u3068\u3000\u305d\u308c\u3067\u3082\u7d9a\u3044\u3066\u3044\u308b\n\u30b4\u30fc\u30eb\u306a\u3093\u3066\u6c7a\u3081\u3089\u308c\u306a\u3044\u3060\u3051\u3067\u3000\u306a\u3093\u306a\u3089\u3000\u4eca\u3067\u3082\n\n\u541b\u304c\u672a\u6765\u306b\u96f6\u3059\u6d99\u304c\u3000\u5730\u7403\u306b\u5438\u3044\u8fbc\u307e\u308c\u3066\u6d88\u3048\u308b\u524d\u306b\n\u3072\u3068\u308a\u306b\u305b\u305a\u306b\u63ac\u3048\u308b\u3088\u3046\u306b\u3000\u65c5\u7acb\u3063\u305f\u5504\u3000\u9593\u306b\u5408\u3046\u3088\u3046\u306b\n\u547d\u306e\u6570\u3068\u540c\u3058\u91cf\u306e\u4e00\u79d2\u3000\u541b\u306f\u3069\u3053\u306b\u3044\u308b\u3000\u8074\u3053\u3048\u308b\u304b\u3044\n\u541b\u306e\u7a7a\u307e\u3067\u5168\u3066\u306e\u529b\u3067\u3000\u65c5\u7acb\u3063\u305f\u5504\u306b\u6c17\u4ed8\u3044\u3066\u307b\u3057\u3044\nYou might also like\u3069\u3093\u306a\u4e8b\u3082\u3053\u3093\u306a\u71b1\u3082\u8857\u306b\u307e\u304e\u308c\u308b\n\u6d41\u308c\u661f\u306e\u6b63\u4f53\u3092\u50d5\u3089\u306f\u77e5\u3063\u3066\u3044\u308b\n\n\u592a\u967d\u304c\u5fd8\u308c\u305f\u8def\u5730\u88cf\u306b\u3000\u5fc3\u3092\u6bba\u3057\u305f\u6559\u5ba4\u306e\u7a93\u306b\n\u9003\u3052\u8fbc\u3093\u3060\u6bdb\u5e03\u306e\u5185\u5074\u306b\u3000\u5168\u3066\u306e\u529b\u3067\u8f1d\u3051\u3000\u6d41\u308c\u661f\n\n\u304a\u4e92\u3044\u306b\u3000\u3042\u306e\u9803\u3068\u9055\u3063\u3066\u3044\u3066\u3082\u3000\u5fc5\u305a\u63a2\u3057\u51fa\u305b\u308b\u3000\u50d5\u3089\u306b\u306f\u95a2\u4fc2\u306a\u3044\u4e8b\n\u98db\u3093\u3067\u3044\u3051\u3000\u541b\u306e\u7a7a\u307e\u3067\u3000\u751f\u307e\u308c\u305f\u5168\u3066\u306e\u529b\u3067\u8f1d\u3051Embed"
+   }
+  }
+ ]
+}

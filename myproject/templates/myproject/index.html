@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Music Insights</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            background-color: #f8f9fa;
+            margin: 0;
+            padding: 20px;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #ffffff;
+            border-radius: 8px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            color: #2c3e50;
+            text-align: center;
+            font-size: 2rem;
+            margin-bottom: 10px;
+        }
+        .description {
+            font-size: 1rem;
+            color: #34495e;
+            line-height: 1.6;
+            text-align: center;
+            margin-bottom: 30px;
+        }
+        form {
+            display: flex;
+            flex-direction: column;
+            gap: 15px;
+            margin-bottom: 30px;
+        }
+        label {
+            font-size: 1rem;
+            color: #2c3e50;
+        }
+        input[type="text"] {
+            width: 100%;
+            padding: 10px;
+            border: 1px solid #ced4da;
+            border-radius: 4px;
+            box-sizing: border-box;
+            font-size: 1rem;
+        }
+        button {
+            padding: 10px 20px;
+            background-color: #4CAF50;
+            color: #ffffff;
+            border: none;
+            border-radius: 4px;
+            font-size: 1rem;
+            cursor: pointer;
+            transition: background-color 0.3s ease;
+        }
+        button:hover {
+            background-color: #45a049;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+            font-size: 0.9rem;
+        }
+        th, td {
+            border: 1px solid #ddd;
+            padding: 10px;
+            text-align: left;
+        }
+        th {
+            background-color: #f2f2f2;
+            font-weight: bold;
+        }
+        td {
+            word-wrap: break-word;
+        }
+        ul {
+            padding-left: 20px;
+        }
+        ul li {
+            margin-bottom: 5px;
+        }
+        a {
+            color: #3498db;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Music Insights</h1>
+        <div class="description">
+            入力したアルバム内のそれぞれの楽曲の歌詞を分析して、以下の二つの分析をもとに似ている曲を推薦します：<br>
+            <strong>感情分析</strong>: 以下の8つの感情から強く出た上位3つの感情を表示<br>
+            <em>Joy (喜び), Sadness (悲しみ), Anticipation (期待), Surprise (驚き), Anger (怒り), Fear (恐れ), Disgust (嫌悪), Trust (信頼)</em><br>
+            <strong>歌詞の特徴分析</strong>: 歌詞の特徴として特定の単語を抽出する<br>
+            <br>
+            あなたの好きな音楽アルバムを入力してください！
+        </div>
+        <form method="post">
+            {% csrf_token %}
+            <label for="album_title">アルバム名：</label>
+            <input type="text" id="album_title" name="album_title" placeholder="例: First Love" required>
+            <label for="artist_name">アーティスト名：</label>
+            <input type="text" id="artist_name" name="artist_name" placeholder="例: 宇多田ヒカル" required>
+            <button type="submit">分析</button>
+        </form>
+
+        {% if song_details %}
+            <h2>分析結果</h2>
+            <table>
+                <thead>
+                    <tr>
+                        <th>曲名</th>
+                        <th>上位感情</th>
+                        <th>おすすめの楽曲</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    {% for detail in song_details %}
+                        <tr>
+                            <td>
+                                {{ detail.song_title }}
+                                <br>
+                                <a href="javascript:void(0)" 
+                                   onclick="
+                                       const newWindow = window.open('', '_blank');
+                                       newWindow.document.write('<html><head><title>歌詞</title></head><body><pre>' + 
+                                           '{{ detail.lyrics|linebreaksbr }}' + 
+                                           '</pre></body></html>');
+                                       newWindow.document.close();
+                                   ">
+                                    歌詞を見る
+                                </a>
+                            </td>
+                            <td>
+                                <ul>
+                                    {% for emotion, percentage in detail.top_3_emotions %}
+                                        <li>{{ emotion }}: {{ percentage|floatformat:1 }}%</li>
+                                    {% endfor %}
+                                </ul>
+                            </td>
+                            <td>
+                                <ul>
+                                    {% for rec in detail.recommended_songs %}
+                                        <li>{{ rec.song_title }} - {{ rec.artist }} ({{ rec.emotion_label }})</li>
+                                    {% endfor %}
+                                </ul>
+                            </td>
+                        </tr>
+                    {% endfor %}
+                </tbody>
+            </table>
+        {% endif %}
+    </div>
+</body>
+</html>

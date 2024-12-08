@@ -1,0 +1,747 @@
+{
+ "_type": "album",
+ "api_path": "/albums/152674",
+ "cover_art_thumbnail_url": "https://images.genius.com/0d031f033e938b07532758a7e2d6e29f.300x300x1.jpg",
+ "cover_art_url": "https://images.genius.com/0d031f033e938b07532758a7e2d6e29f.1000x1000x1.jpg",
+ "full_title": "The Party by Andy Shauf",
+ "id": 152674,
+ "name": "The Party",
+ "name_with_artist": "The Party (artist: Andy Shauf)",
+ "release_date_components": {
+  "year": 2016,
+  "month": 5,
+  "day": 20
+ },
+ "release_date_for_display": "May 20, 2016",
+ "url": "https://genius.com/albums/Andy-shauf/The-party",
+ "artist": {
+  "_type": "artist",
+  "api_path": "/artists/380491",
+  "header_image_url": "https://images.genius.com/a5f58893498df48fadc615a81e355255.1000x1000x1.jpg",
+  "id": 380491,
+  "image_url": "https://images.genius.com/a5f58893498df48fadc615a81e355255.1000x1000x1.jpg",
+  "index_character": "a",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Andy Shauf",
+  "slug": "Andy-shauf",
+  "url": "https://genius.com/artists/Andy-shauf"
+ },
+ "primary_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/380491",
+   "header_image_url": "https://images.genius.com/a5f58893498df48fadc615a81e355255.1000x1000x1.jpg",
+   "id": 380491,
+   "image_url": "https://images.genius.com/a5f58893498df48fadc615a81e355255.1000x1000x1.jpg",
+   "index_character": "a",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Andy Shauf",
+   "slug": "Andy-shauf",
+   "url": "https://genius.com/artists/Andy-shauf"
+  }
+ ],
+ "tracks": [
+  {
+   "number": 1,
+   "song": {
+    "_type": "song",
+    "annotation_count": 5,
+    "api_path": "/songs/2474875",
+    "artist_names": "Andy Shauf",
+    "full_title": "The Magician by\u00a0Andy\u00a0Shauf",
+    "header_image_thumbnail_url": "https://images.genius.com/0d031f033e938b07532758a7e2d6e29f.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/0d031f033e938b07532758a7e2d6e29f.1000x1000x1.jpg",
+    "id": 2474875,
+    "instrumental": false,
+    "lyrics_owner_id": 54639,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1674602050,
+    "path": "/Andy-shauf-the-magician-lyrics",
+    "primary_artist_names": "Andy Shauf",
+    "pyongs_count": 4,
+    "relationships_index_url": "https://genius.com/Andy-shauf-the-magician-sample",
+    "release_date_components": {
+     "year": 2016,
+     "month": 5,
+     "day": 20
+    },
+    "release_date_for_display": "May 20, 2016",
+    "release_date_with_abbreviated_month_for_display": "May. 20, 2016",
+    "song_art_image_thumbnail_url": "https://images.genius.com/0d031f033e938b07532758a7e2d6e29f.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/0d031f033e938b07532758a7e2d6e29f.1000x1000x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 4,
+     "hot": false,
+     "pageviews": 58176
+    },
+    "title": "The Magician",
+    "title_with_featured": "The Magician",
+    "updated_by_human_at": 1663815989,
+    "url": "https://genius.com/Andy-shauf-the-magician-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/380491",
+     "header_image_url": "https://images.genius.com/a5f58893498df48fadc615a81e355255.1000x1000x1.jpg",
+     "id": 380491,
+     "image_url": "https://images.genius.com/a5f58893498df48fadc615a81e355255.1000x1000x1.jpg",
+     "index_character": "a",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Andy Shauf",
+     "slug": "Andy-shauf",
+     "url": "https://genius.com/artists/Andy-shauf"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/380491",
+      "header_image_url": "https://images.genius.com/a5f58893498df48fadc615a81e355255.1000x1000x1.jpg",
+      "id": 380491,
+      "image_url": "https://images.genius.com/a5f58893498df48fadc615a81e355255.1000x1000x1.jpg",
+      "index_character": "a",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Andy Shauf",
+      "slug": "Andy-shauf",
+      "url": "https://genius.com/artists/Andy-shauf"
+     }
+    ],
+    "artist": "Andy Shauf",
+    "lyrics": "16 ContributorsThe Magician Lyrics[Verse 1]\nDo you find it gets a little easier\nEach time you make it disappear?\nOh fools, the magician bends the rules\nAs the crowd watches his every move\n\n[Chorus]\nJust a shaking hand without a concrete plan\nDoo doo doo doo, doo doo doo\nDoo doo doo doo, doo doo doo\nDoo doo doo doo, doo doo doo\nDoo doo doo doo, doo doo doo\n\n[Verse 2]\nSidesteps to a death-defying feat\nWait for him to reappear\nLook close, you'll see him sweat the most\nEach time his options disappear\n\n[Chorus]\nJust a shaking hand without a concrete plan\nJust a shaking hand without a concrete plan\nI\u2019m a shaking hand without a plan\nDoo doo doo doo, doo doo doo\nDoo doo doo doo, doo doo doo\nDoo doo doo doo, doo doo doo\nDoo doo doo doo, doo doo doo\nSee Andy Shauf LiveGet tickets as low as $59You might also like[Outro]\nDoo doo doo doo, doo doo doo\nDoo doo doo doo, doo doo doo\nDoo doo doo doo, doo doo doo\nDoo doo doo doo, doo doo doo4Embed"
+   }
+  },
+  {
+   "number": 2,
+   "song": {
+    "_type": "song",
+    "annotation_count": 5,
+    "api_path": "/songs/2818729",
+    "artist_names": "Andy Shauf",
+    "full_title": "Early to the Party by\u00a0Andy\u00a0Shauf",
+    "header_image_thumbnail_url": "https://images.genius.com/0d031f033e938b07532758a7e2d6e29f.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/0d031f033e938b07532758a7e2d6e29f.1000x1000x1.jpg",
+    "id": 2818729,
+    "instrumental": false,
+    "lyrics_owner_id": 3376134,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1712371675,
+    "path": "/Andy-shauf-early-to-the-party-lyrics",
+    "primary_artist_names": "Andy Shauf",
+    "pyongs_count": 1,
+    "relationships_index_url": "https://genius.com/Andy-shauf-early-to-the-party-sample",
+    "release_date_components": {
+     "year": 2016,
+     "month": 5,
+     "day": 20
+    },
+    "release_date_for_display": "May 20, 2016",
+    "release_date_with_abbreviated_month_for_display": "May. 20, 2016",
+    "song_art_image_thumbnail_url": "https://images.genius.com/0d031f033e938b07532758a7e2d6e29f.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/0d031f033e938b07532758a7e2d6e29f.1000x1000x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 5,
+     "hot": false,
+     "pageviews": 25965
+    },
+    "title": "Early to the Party",
+    "title_with_featured": "Early to the Party",
+    "updated_by_human_at": 1712371675,
+    "url": "https://genius.com/Andy-shauf-early-to-the-party-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/380491",
+     "header_image_url": "https://images.genius.com/a5f58893498df48fadc615a81e355255.1000x1000x1.jpg",
+     "id": 380491,
+     "image_url": "https://images.genius.com/a5f58893498df48fadc615a81e355255.1000x1000x1.jpg",
+     "index_character": "a",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Andy Shauf",
+     "slug": "Andy-shauf",
+     "url": "https://genius.com/artists/Andy-shauf"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/380491",
+      "header_image_url": "https://images.genius.com/a5f58893498df48fadc615a81e355255.1000x1000x1.jpg",
+      "id": 380491,
+      "image_url": "https://images.genius.com/a5f58893498df48fadc615a81e355255.1000x1000x1.jpg",
+      "index_character": "a",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Andy Shauf",
+      "slug": "Andy-shauf",
+      "url": "https://genius.com/artists/Andy-shauf"
+     }
+    ],
+    "artist": "Andy Shauf",
+    "lyrics": "13 ContributorsTranslationsPortugu\u00easEarly to the Party Lyrics[Verse 1]\nEarly to the party, you're the first one there\nOverdressed and underprepared\nStanding in the kitchen, stressing out the host\nPulling teeth 'til anyone arrives\n\n[Verse 2]\nExcuse yourself and smoke a cigarette outside\nThere's still new faces coming up the drive\nExhale nervous greetings as they shuffle past\nCan't he ever show up on time?\n\n[Chorus]\nBird on the wall\nCatch her calling all the shots\nCatch her tying you in knots\nWon't let you leave\n\n[Instrumental Break]\n\n[Verse 3]\nWhat happened to manners? I guess he's had a few\nHe's talking shit, he never thinks of you\nSo bite your lip and watch him walk off with his friends\nLeaving you all alone once again\nSee Andy Shauf LiveGet tickets as low as $59You might also like[Chorus]\nBird on the wall\nCatch her calling all the shots\nCatch her tying you in knots\nWon't let you leave\nBird on the wall\nCatch her calling all the shots\nCatch her tying you in knots\nWon't let you leave\nBird on the wall\nCatch her calling all the shots\nCatch her tying you in knots\nThey won't let you leave1Embed"
+   }
+  },
+  {
+   "number": 3,
+   "song": {
+    "_type": "song",
+    "annotation_count": 8,
+    "api_path": "/songs/2885799",
+    "artist_names": "Andy Shauf",
+    "full_title": "Twist Your Ankle by\u00a0Andy\u00a0Shauf",
+    "header_image_thumbnail_url": "https://images.genius.com/0d031f033e938b07532758a7e2d6e29f.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/0d031f033e938b07532758a7e2d6e29f.1000x1000x1.jpg",
+    "id": 2885799,
+    "instrumental": false,
+    "lyrics_owner_id": 1684296,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1705161290,
+    "path": "/Andy-shauf-twist-your-ankle-lyrics",
+    "primary_artist_names": "Andy Shauf",
+    "pyongs_count": null,
+    "relationships_index_url": "https://genius.com/Andy-shauf-twist-your-ankle-sample",
+    "release_date_components": {
+     "year": 2016,
+     "month": 5,
+     "day": 20
+    },
+    "release_date_for_display": "May 20, 2016",
+    "release_date_with_abbreviated_month_for_display": "May. 20, 2016",
+    "song_art_image_thumbnail_url": "https://images.genius.com/0d031f033e938b07532758a7e2d6e29f.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/0d031f033e938b07532758a7e2d6e29f.1000x1000x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 8,
+     "hot": false,
+     "pageviews": 16468
+    },
+    "title": "Twist Your Ankle",
+    "title_with_featured": "Twist Your Ankle",
+    "updated_by_human_at": 1705161291,
+    "url": "https://genius.com/Andy-shauf-twist-your-ankle-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/380491",
+     "header_image_url": "https://images.genius.com/a5f58893498df48fadc615a81e355255.1000x1000x1.jpg",
+     "id": 380491,
+     "image_url": "https://images.genius.com/a5f58893498df48fadc615a81e355255.1000x1000x1.jpg",
+     "index_character": "a",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Andy Shauf",
+     "slug": "Andy-shauf",
+     "url": "https://genius.com/artists/Andy-shauf"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/380491",
+      "header_image_url": "https://images.genius.com/a5f58893498df48fadc615a81e355255.1000x1000x1.jpg",
+      "id": 380491,
+      "image_url": "https://images.genius.com/a5f58893498df48fadc615a81e355255.1000x1000x1.jpg",
+      "index_character": "a",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Andy Shauf",
+      "slug": "Andy-shauf",
+      "url": "https://genius.com/artists/Andy-shauf"
+     }
+    ],
+    "artist": "Andy Shauf",
+    "lyrics": "6 ContributorsTwist Your Ankle LyricsLast night, dancing slow in turning light\nWith you caught in my eye\nWell twist your ankle, leave my side\nGoodnight, I'm tossing in the towel again\nGo laugh with all your friends\nOh, I don't really understand them\nEverybody's laughing at me\nJust let me walk home\nOh God, stumble over to the door\nTrashed and out of line\nOh I don\u2019t think the fault is all mine\nLast night, dancing slow in turning light\nI watched you walk right by\nWell twist my ankle, stay by your side\nEverybody's laughing at me\nI can\u2019t make a sound\nEverybody's laughing at me\nI wish I'd just stayed homeSee Andy Shauf LiveGet tickets as low as $59You might also likeEmbed"
+   }
+  },
+  {
+   "number": 4,
+   "song": {
+    "_type": "song",
+    "annotation_count": 9,
+    "api_path": "/songs/2824015",
+    "artist_names": "Andy Shauf",
+    "full_title": "Quite Like You by\u00a0Andy\u00a0Shauf",
+    "header_image_thumbnail_url": "https://images.genius.com/0d031f033e938b07532758a7e2d6e29f.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/0d031f033e938b07532758a7e2d6e29f.1000x1000x1.jpg",
+    "id": 2824015,
+    "instrumental": false,
+    "lyrics_owner_id": 1501875,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1696466035,
+    "path": "/Andy-shauf-quite-like-you-lyrics",
+    "primary_artist_names": "Andy Shauf",
+    "pyongs_count": 2,
+    "relationships_index_url": "https://genius.com/Andy-shauf-quite-like-you-sample",
+    "release_date_components": {
+     "year": 2016,
+     "month": 5,
+     "day": 20
+    },
+    "release_date_for_display": "May 20, 2016",
+    "release_date_with_abbreviated_month_for_display": "May. 20, 2016",
+    "song_art_image_thumbnail_url": "https://images.genius.com/0d031f033e938b07532758a7e2d6e29f.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/0d031f033e938b07532758a7e2d6e29f.1000x1000x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 9,
+     "hot": false,
+     "pageviews": 40140
+    },
+    "title": "Quite Like You",
+    "title_with_featured": "Quite Like You",
+    "updated_by_human_at": 1696466036,
+    "url": "https://genius.com/Andy-shauf-quite-like-you-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/380491",
+     "header_image_url": "https://images.genius.com/a5f58893498df48fadc615a81e355255.1000x1000x1.jpg",
+     "id": 380491,
+     "image_url": "https://images.genius.com/a5f58893498df48fadc615a81e355255.1000x1000x1.jpg",
+     "index_character": "a",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Andy Shauf",
+     "slug": "Andy-shauf",
+     "url": "https://genius.com/artists/Andy-shauf"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/380491",
+      "header_image_url": "https://images.genius.com/a5f58893498df48fadc615a81e355255.1000x1000x1.jpg",
+      "id": 380491,
+      "image_url": "https://images.genius.com/a5f58893498df48fadc615a81e355255.1000x1000x1.jpg",
+      "index_character": "a",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Andy Shauf",
+      "slug": "Andy-shauf",
+      "url": "https://genius.com/artists/Andy-shauf"
+     }
+    ],
+    "artist": "Andy Shauf",
+    "lyrics": "14 ContributorsQuite Like You LyricsJeremy's so stoned I'd be surprised\nIf he saw the tears in Sherry's eyes\nShe's standing in the corner staring at the floor\nI wonder what the hell he did this time\n\nNormally, I wouldn't care to be so bold\nTonight, I think I'll ask her what is wrong\nShe seems a bit embarrassed and I understand\nI say,\"I wish that you were having a good time.\"\n\nShe says \"You know I've never really met someone like you.\"\n\"You know I've never really met someone like you.\"\n\nI'm not one to speak up but I've had a few\nSo I start cutting Jeremy right in two\nI say, \"I don't know what you see in him. It seems to me\nAll he ever does is bring you down.\"\n\nI'm spilling my drink as I really start\nTearing one of my best friends apart\nShe's getting uneasy and my drunken speech\nEnds as my hand finds its way to hers\nI say, \"You know I've never really met someone like you.\"\n\"You know I've never really met someone like you.\"\nSee Andy Shauf LiveGet tickets as low as $59You might also likeJeremy walks over and, to my surprise\nSherry puts her arm around his side2Embed"
+   }
+  },
+  {
+   "number": 5,
+   "song": {
+    "_type": "song",
+    "annotation_count": 10,
+    "api_path": "/songs/2885745",
+    "artist_names": "Andy Shauf",
+    "full_title": "Begin Again by\u00a0Andy\u00a0Shauf",
+    "header_image_thumbnail_url": "https://images.genius.com/0d031f033e938b07532758a7e2d6e29f.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/0d031f033e938b07532758a7e2d6e29f.1000x1000x1.jpg",
+    "id": 2885745,
+    "instrumental": false,
+    "lyrics_owner_id": 1684296,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1663816886,
+    "path": "/Andy-shauf-begin-again-lyrics",
+    "primary_artist_names": "Andy Shauf",
+    "pyongs_count": null,
+    "relationships_index_url": "https://genius.com/Andy-shauf-begin-again-sample",
+    "release_date_components": {
+     "year": 2016,
+     "month": 5,
+     "day": 20
+    },
+    "release_date_for_display": "May 20, 2016",
+    "release_date_with_abbreviated_month_for_display": "May. 20, 2016",
+    "song_art_image_thumbnail_url": "https://images.genius.com/0d031f033e938b07532758a7e2d6e29f.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/0d031f033e938b07532758a7e2d6e29f.1000x1000x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 10,
+     "hot": false,
+     "pageviews": 16995
+    },
+    "title": "Begin Again",
+    "title_with_featured": "Begin Again",
+    "updated_by_human_at": 1663816902,
+    "url": "https://genius.com/Andy-shauf-begin-again-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/380491",
+     "header_image_url": "https://images.genius.com/a5f58893498df48fadc615a81e355255.1000x1000x1.jpg",
+     "id": 380491,
+     "image_url": "https://images.genius.com/a5f58893498df48fadc615a81e355255.1000x1000x1.jpg",
+     "index_character": "a",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Andy Shauf",
+     "slug": "Andy-shauf",
+     "url": "https://genius.com/artists/Andy-shauf"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/380491",
+      "header_image_url": "https://images.genius.com/a5f58893498df48fadc615a81e355255.1000x1000x1.jpg",
+      "id": 380491,
+      "image_url": "https://images.genius.com/a5f58893498df48fadc615a81e355255.1000x1000x1.jpg",
+      "index_character": "a",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Andy Shauf",
+      "slug": "Andy-shauf",
+      "url": "https://genius.com/artists/Andy-shauf"
+     }
+    ],
+    "artist": "Andy Shauf",
+    "lyrics": "14 ContributorsBegin Again Lyrics[Verse 1]\nBegin again\nThis time you should take a bow at the very end\nIt\u2019s quite an act you put on\nWait till the cameras roll\nYou were the leading man\nIn a film where the end of the world\nIs decided by you\nWhenever you choose\n\n[Chorus]\nOh, from the sky, a brilliant light\nWill dissolve us all\n\n[Verse 2]\nBegin again\nAnd tell me all about the one that you love\nAnd all about the other one\nThat you've got on the side\nI don't give a damn\nAbout you fooling around behind Sherry\u2019s back\nIt\u2019s just the one that you found\nIs the one that I need\nSee Andy Shauf LiveGet tickets as low as $59You might also like[Chorus]\nOh, from the sky, a brilliant light\nWill dissolve us all\n\n[Verse 3]\nListen to this halfwit\nSpilling his guts after a bottle of wine\nThought this would be a good time\nNow I can't finish my drink\n\nLet him laugh it off\n\"Hey, it's a city the size of a dinner plate\nIt's hard not to overlap\nWhat could you expect?\"\n\n[Chorus]\nOh, from the sky, a brilliant light\nWill dissolve us all\n\n[Outro]\nNow I\u2019m kicking leaves\nCursing the one that I love and the one I don't\nI wonder who you're thinking ofEmbed"
+   }
+  },
+  {
+   "number": 6,
+   "song": {
+    "_type": "song",
+    "annotation_count": 7,
+    "api_path": "/songs/2866004",
+    "artist_names": "Andy Shauf",
+    "full_title": "The Worst in You by\u00a0Andy\u00a0Shauf",
+    "header_image_thumbnail_url": "https://images.genius.com/0d031f033e938b07532758a7e2d6e29f.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/0d031f033e938b07532758a7e2d6e29f.1000x1000x1.jpg",
+    "id": 2866004,
+    "instrumental": false,
+    "lyrics_owner_id": 2450248,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1687295745,
+    "path": "/Andy-shauf-the-worst-in-you-lyrics",
+    "primary_artist_names": "Andy Shauf",
+    "pyongs_count": 3,
+    "relationships_index_url": "https://genius.com/Andy-shauf-the-worst-in-you-sample",
+    "release_date_components": {
+     "year": 2016,
+     "month": 5,
+     "day": 20
+    },
+    "release_date_for_display": "May 20, 2016",
+    "release_date_with_abbreviated_month_for_display": "May. 20, 2016",
+    "song_art_image_thumbnail_url": "https://images.genius.com/0d031f033e938b07532758a7e2d6e29f.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/0d031f033e938b07532758a7e2d6e29f.1000x1000x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 7,
+     "hot": false,
+     "pageviews": 16198
+    },
+    "title": "The Worst in You",
+    "title_with_featured": "The Worst in You",
+    "updated_by_human_at": 1687295745,
+    "url": "https://genius.com/Andy-shauf-the-worst-in-you-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/380491",
+     "header_image_url": "https://images.genius.com/a5f58893498df48fadc615a81e355255.1000x1000x1.jpg",
+     "id": 380491,
+     "image_url": "https://images.genius.com/a5f58893498df48fadc615a81e355255.1000x1000x1.jpg",
+     "index_character": "a",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Andy Shauf",
+     "slug": "Andy-shauf",
+     "url": "https://genius.com/artists/Andy-shauf"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/380491",
+      "header_image_url": "https://images.genius.com/a5f58893498df48fadc615a81e355255.1000x1000x1.jpg",
+      "id": 380491,
+      "image_url": "https://images.genius.com/a5f58893498df48fadc615a81e355255.1000x1000x1.jpg",
+      "index_character": "a",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Andy Shauf",
+      "slug": "Andy-shauf",
+      "url": "https://genius.com/artists/Andy-shauf"
+     }
+    ],
+    "artist": "Andy Shauf",
+    "lyrics": "11 ContributorsThe Worst in You LyricsI stepped out the front door\nWent out into the night\nTook out a cigarette\nThen I felt for my light\nIn my front pockets, it was nowhere to be found\n\nI went back in the door\nKicked off both of my shoes\nI looked around for your coat\nAnd then went looking for you\nThought that I heard your laughter stepping down the stairs\n\nI walked carefully up\nTill I was almost halfway\nI saw two closed doors\nSo I let my heart break\nAre you running around or just running away?\n\nWhy do I always find the worst in you?\nDo you always find the worst in me?\nOr do I only find the worst in you?\n\nSo I stood still for a while\nTrying to hear again\nBut then from the living room\nI heard you calling my name\nI found you smiling, asking me where I had been\nSee Andy Shauf LiveGet tickets as low as $59You might also likeOh, why do I always seek the worst in you?\nDo you always seek the worst in me?\nDo I only seek the worst in you?3Embed"
+   }
+  },
+  {
+   "number": 7,
+   "song": {
+    "_type": "song",
+    "annotation_count": 11,
+    "api_path": "/songs/2857381",
+    "artist_names": "Andy Shauf",
+    "full_title": "To You by\u00a0Andy\u00a0Shauf",
+    "header_image_thumbnail_url": "https://images.genius.com/0d031f033e938b07532758a7e2d6e29f.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/0d031f033e938b07532758a7e2d6e29f.1000x1000x1.jpg",
+    "id": 2857381,
+    "instrumental": false,
+    "lyrics_owner_id": 3587490,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1687296023,
+    "path": "/Andy-shauf-to-you-lyrics",
+    "primary_artist_names": "Andy Shauf",
+    "pyongs_count": null,
+    "relationships_index_url": "https://genius.com/Andy-shauf-to-you-sample",
+    "release_date_components": {
+     "year": 2016,
+     "month": 5,
+     "day": 20
+    },
+    "release_date_for_display": "May 20, 2016",
+    "release_date_with_abbreviated_month_for_display": "May. 20, 2016",
+    "song_art_image_thumbnail_url": "https://images.genius.com/0d031f033e938b07532758a7e2d6e29f.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/0d031f033e938b07532758a7e2d6e29f.1000x1000x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 11,
+     "hot": false,
+     "pageviews": 33290
+    },
+    "title": "To You",
+    "title_with_featured": "To You",
+    "updated_by_human_at": 1687296024,
+    "url": "https://genius.com/Andy-shauf-to-you-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/380491",
+     "header_image_url": "https://images.genius.com/a5f58893498df48fadc615a81e355255.1000x1000x1.jpg",
+     "id": 380491,
+     "image_url": "https://images.genius.com/a5f58893498df48fadc615a81e355255.1000x1000x1.jpg",
+     "index_character": "a",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Andy Shauf",
+     "slug": "Andy-shauf",
+     "url": "https://genius.com/artists/Andy-shauf"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/380491",
+      "header_image_url": "https://images.genius.com/a5f58893498df48fadc615a81e355255.1000x1000x1.jpg",
+      "id": 380491,
+      "image_url": "https://images.genius.com/a5f58893498df48fadc615a81e355255.1000x1000x1.jpg",
+      "index_character": "a",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Andy Shauf",
+      "slug": "Andy-shauf",
+      "url": "https://genius.com/artists/Andy-shauf"
+     }
+    ],
+    "artist": "Andy Shauf",
+    "lyrics": "25 ContributorsTo You LyricsJeremy, can we talk a minute?\nI've got some things that I need to\nGet off of my chest\n\nI know that we've had a few\nAnd it's far too late\nBut if I wait, I might never tell you\nCan we find somewhere quiet?\nLet's go outside\nI've got some smokes if you've got a light\nIt's just that sometimes when I'm by your side\nIt feels so right\nIt feels like nothing could go wrong\nDoes it ever\nFeel like that to you?\nDoes it ever\nFeel like that to you?\nOh, I don't know what I mean\nIt sounded wrong and I'm just tired\nNot being weird\nI just mean that you're a good friend\nIt's hard to explain\nJust forget I said anything\nSee Andy Shauf LiveGet tickets as low as $59You might also likeGet over yourself\nI'm not in love with you\nIt just came out all wrong\nYeah\nTell the guys and laugh it up\nWhy am I even surprised?\nThat it never\nFeels like that to you\nThat it never\nFeels like that to you\nI guess it never\nFeels like that to you\nI guess it never\nFeels like that to youEmbed"
+   }
+  },
+  {
+   "number": 8,
+   "song": {
+    "_type": "song",
+    "annotation_count": 4,
+    "api_path": "/songs/2885761",
+    "artist_names": "Andy Shauf",
+    "full_title": "Eyes of Them All by\u00a0Andy\u00a0Shauf",
+    "header_image_thumbnail_url": "https://images.genius.com/0d031f033e938b07532758a7e2d6e29f.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/0d031f033e938b07532758a7e2d6e29f.1000x1000x1.jpg",
+    "id": 2885761,
+    "instrumental": false,
+    "lyrics_owner_id": 1684296,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1663817491,
+    "path": "/Andy-shauf-eyes-of-them-all-lyrics",
+    "primary_artist_names": "Andy Shauf",
+    "pyongs_count": null,
+    "relationships_index_url": "https://genius.com/Andy-shauf-eyes-of-them-all-sample",
+    "release_date_components": {
+     "year": 2016,
+     "month": 5,
+     "day": 20
+    },
+    "release_date_for_display": "May 20, 2016",
+    "release_date_with_abbreviated_month_for_display": "May. 20, 2016",
+    "song_art_image_thumbnail_url": "https://images.genius.com/0d031f033e938b07532758a7e2d6e29f.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/0d031f033e938b07532758a7e2d6e29f.1000x1000x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 4,
+     "hot": false,
+     "pageviews": 12175
+    },
+    "title": "Eyes of Them All",
+    "title_with_featured": "Eyes of Them All",
+    "updated_by_human_at": 1663817491,
+    "url": "https://genius.com/Andy-shauf-eyes-of-them-all-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/380491",
+     "header_image_url": "https://images.genius.com/a5f58893498df48fadc615a81e355255.1000x1000x1.jpg",
+     "id": 380491,
+     "image_url": "https://images.genius.com/a5f58893498df48fadc615a81e355255.1000x1000x1.jpg",
+     "index_character": "a",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Andy Shauf",
+     "slug": "Andy-shauf",
+     "url": "https://genius.com/artists/Andy-shauf"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/380491",
+      "header_image_url": "https://images.genius.com/a5f58893498df48fadc615a81e355255.1000x1000x1.jpg",
+      "id": 380491,
+      "image_url": "https://images.genius.com/a5f58893498df48fadc615a81e355255.1000x1000x1.jpg",
+      "index_character": "a",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Andy Shauf",
+      "slug": "Andy-shauf",
+      "url": "https://genius.com/artists/Andy-shauf"
+     }
+    ],
+    "artist": "Andy Shauf",
+    "lyrics": "5 ContributorsEyes of Them All Lyrics[Verse 1: Andy Shauf]\nCamera kisser fakes another smile\nBends my ear so I stay awhile\nOh, I know this town can feel so small\n\nI need to stretch my legs\nFind some big mistakes\nFind some big mistakes\n\n[Verse 2: Andy Shauf]\nDream-maker takes another sip\nStarts a fire with her fingertips\nHead to toe, I'm falling into light\n\n[Pre-Chorus]\nOh, it seems like truth\nI could fall for you\nI could fall for you\n\n[Chorus]\nOh, you've got the eyes of them all\nWhen you're just dancing on your own\nOh, you've got the eyes of them all\nWhen you're just dancing on your own\nDancing on your own\nSee Andy Shauf LiveGet tickets as low as $59You might also like[Verse 3: Andy Shauf]\nShe's talking circles, start to feel her words\nFloat on past without being heard\nI'm awash poured out into night\n\nI'll keep my eyes\nHolding onto hers\nHolding onto hers\n\n[Chorus]\nOh, you've got the eyes of them all\nWhen you're just dancing on your own\nOh, you've got the eyes of them all\nWhen you're just dancing on your own\n\nOh, you've got the eyes of them all\nWhen you're just dancing on your own\nOh, you've got the eyes of them all\nWhen you're just dancing on your own\nDancing on your own\n\n[Outro]\nI light another so that I can breathe\nDeep in the cracks when she finally leavesEmbed"
+   }
+  },
+  {
+   "number": 9,
+   "song": {
+    "_type": "song",
+    "annotation_count": 4,
+    "api_path": "/songs/2885785",
+    "artist_names": "Andy Shauf",
+    "full_title": "Alexander All Alone by\u00a0Andy\u00a0Shauf",
+    "header_image_thumbnail_url": "https://images.genius.com/0d031f033e938b07532758a7e2d6e29f.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/0d031f033e938b07532758a7e2d6e29f.1000x1000x1.jpg",
+    "id": 2885785,
+    "instrumental": false,
+    "lyrics_owner_id": 1684296,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1712093374,
+    "path": "/Andy-shauf-alexander-all-alone-lyrics",
+    "primary_artist_names": "Andy Shauf",
+    "pyongs_count": null,
+    "relationships_index_url": "https://genius.com/Andy-shauf-alexander-all-alone-sample",
+    "release_date_components": {
+     "year": 2016,
+     "month": 5,
+     "day": 20
+    },
+    "release_date_for_display": "May 20, 2016",
+    "release_date_with_abbreviated_month_for_display": "May. 20, 2016",
+    "song_art_image_thumbnail_url": "https://images.genius.com/0d031f033e938b07532758a7e2d6e29f.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/0d031f033e938b07532758a7e2d6e29f.1000x1000x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 4,
+     "hot": false,
+     "pageviews": 12279
+    },
+    "title": "Alexander All Alone",
+    "title_with_featured": "Alexander All Alone",
+    "updated_by_human_at": 1712093374,
+    "url": "https://genius.com/Andy-shauf-alexander-all-alone-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/380491",
+     "header_image_url": "https://images.genius.com/a5f58893498df48fadc615a81e355255.1000x1000x1.jpg",
+     "id": 380491,
+     "image_url": "https://images.genius.com/a5f58893498df48fadc615a81e355255.1000x1000x1.jpg",
+     "index_character": "a",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Andy Shauf",
+     "slug": "Andy-shauf",
+     "url": "https://genius.com/artists/Andy-shauf"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/380491",
+      "header_image_url": "https://images.genius.com/a5f58893498df48fadc615a81e355255.1000x1000x1.jpg",
+      "id": 380491,
+      "image_url": "https://images.genius.com/a5f58893498df48fadc615a81e355255.1000x1000x1.jpg",
+      "index_character": "a",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Andy Shauf",
+      "slug": "Andy-shauf",
+      "url": "https://genius.com/artists/Andy-shauf"
+     }
+    ],
+    "artist": "Andy Shauf",
+    "lyrics": "9 ContributorsAlexander All Alone Lyrics[Verse 1]\nAlexander all alone\nSmoking a cigarette\nThe last pack he'd ever buy\nAt least that's what he said\nHe stood up to stretch his back\nAnd fell down to the ground\n\n[Verse 2]\nAlexander all alone\nTill the neighbor caught a glimpse\nCried out for his wife\nTo call the ambulance\nAlexander all alone\nFelt them check his pulse\nHe heard them pronounce him dead\n\n[Chorus]\nHell is found inside of me\nAnd nothing else will set me free\nIf hell is found inside of me\nThen open me up and spill me out\n\n[Verse 3]\nAlexander wondered why\nNo life flashed before his eyes\nWhy his soul did not depart\nWhy he found no peace of mind\nWould it take a little while?\nWas it the same for everyone?\nAlexander realized\nSee Andy Shauf LiveGet tickets as low as $59You might also like[Chorus]\nThat hell is found inside of me\nAnd nothing else will set me free\nIf hell is found inside of me\nThen open me up and spill me outEmbed"
+   }
+  },
+  {
+   "number": 10,
+   "song": {
+    "_type": "song",
+    "annotation_count": 7,
+    "api_path": "/songs/2885794",
+    "artist_names": "Andy Shauf",
+    "full_title": "Martha Sways by\u00a0Andy\u00a0Shauf",
+    "header_image_thumbnail_url": "https://images.genius.com/0d031f033e938b07532758a7e2d6e29f.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/0d031f033e938b07532758a7e2d6e29f.1000x1000x1.jpg",
+    "id": 2885794,
+    "instrumental": false,
+    "lyrics_owner_id": 1684296,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1663818018,
+    "path": "/Andy-shauf-martha-sways-lyrics",
+    "primary_artist_names": "Andy Shauf",
+    "pyongs_count": null,
+    "relationships_index_url": "https://genius.com/Andy-shauf-martha-sways-sample",
+    "release_date_components": {
+     "year": 2016,
+     "month": 5,
+     "day": 20
+    },
+    "release_date_for_display": "May 20, 2016",
+    "release_date_with_abbreviated_month_for_display": "May. 20, 2016",
+    "song_art_image_thumbnail_url": "https://images.genius.com/0d031f033e938b07532758a7e2d6e29f.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/0d031f033e938b07532758a7e2d6e29f.1000x1000x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 7,
+     "hot": false,
+     "pageviews": 20550
+    },
+    "title": "Martha Sways",
+    "title_with_featured": "Martha Sways",
+    "updated_by_human_at": 1663818018,
+    "url": "https://genius.com/Andy-shauf-martha-sways-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/380491",
+     "header_image_url": "https://images.genius.com/a5f58893498df48fadc615a81e355255.1000x1000x1.jpg",
+     "id": 380491,
+     "image_url": "https://images.genius.com/a5f58893498df48fadc615a81e355255.1000x1000x1.jpg",
+     "index_character": "a",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Andy Shauf",
+     "slug": "Andy-shauf",
+     "url": "https://genius.com/artists/Andy-shauf"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/380491",
+      "header_image_url": "https://images.genius.com/a5f58893498df48fadc615a81e355255.1000x1000x1.jpg",
+      "id": 380491,
+      "image_url": "https://images.genius.com/a5f58893498df48fadc615a81e355255.1000x1000x1.jpg",
+      "index_character": "a",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Andy Shauf",
+      "slug": "Andy-shauf",
+      "url": "https://genius.com/artists/Andy-shauf"
+     }
+    ],
+    "artist": "Andy Shauf",
+    "lyrics": "12 ContributorsMartha Sways Lyrics[Verse 1]\nMartha's thin\nPretty, just like you\nI held her close\nLike I held you\n\n[Verse 2]\nMartha sways\nAnd I follow suit\nShe fills my glass\nAnd I toss it back\nInto the space that once held you\n\n[Chorus]\nAnd dance, dance to the radio\nWhile the devil takes control\nDance, dance to the radio\nWhile the devil takes control\n\n[Verse 3]\nThere's a weight\nHolding me down\nMartha says\nIt's all in my head\n\n[Verse 4]\nI look at the lights\nDancing in her eyes\nAnd I wanna die\nDancing in her eyes\nSee Andy Shauf LiveGet tickets as low as $59You might also like[Chorus]\nDance, dance to the radio\nWhile the devil takes control\nDance, dance to the radio\nWhile the devil takes control\n\nDance, dance to the radio\nWhile the devil takes control\nDance, dance to the radio\nWhile the devil takes control\n\n[Verse 5]\nMartha spins\nAnd I catch her hand\nShe smiles and laughs\nBringing me backEmbed"
+   }
+  }
+ ]
+}
