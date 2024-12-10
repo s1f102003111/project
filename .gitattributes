@@ -1,2 +1,0 @@
-myproject/sample.pt filter=lfs diff=lfs merge=lfs -text
-myproject/lyrics_fasttext_model.model.wv.vectors_ngrams.npy filter=lfs diff=lfs merge=lfs -text
