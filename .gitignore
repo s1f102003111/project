@@ -164,3 +164,5 @@ cython_debug/
 
 myproject/sample.pt
 myproject/lyrics_fasttext_model.model.wv.vectors_ngrams.npy
+
+local_settings.py
