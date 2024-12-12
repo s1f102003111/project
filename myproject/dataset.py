@@ -5,9 +5,11 @@ import numpy as np
 import lyricsgenius
 import csv
 import re
+from pathlib import Path
+from django.conf import settings
 
 # モデルとトークナイザーの読み込み
-model_path = 'C:/Users/iniad/Documents/albumapp/myproject/sample.pt'
+model_path = Path(settings.BASE_DIR, "myproject", "sample.pt")
 checkpoint = 'cl-tohoku/bert-base-japanese-whole-word-masking'
 tokenizer = AutoTokenizer.from_pretrained(checkpoint)
 model = AutoModelForSequenceClassification.from_pretrained(checkpoint, num_labels=8)
@@ -61,7 +63,7 @@ def analyze_lyrics_emotion(lyrics):
     return highest_emotion
 
 # 歌詞、感情ラベル、曲名をCSVファイルに追記保存する関数
-def save_lyrics_with_emotions(artist_name, filename="lyrics_dataset.csv"):
+def save_lyrics_with_emotions(artist_name, filename=Path(settings.BASE_DIR, "myproject", "lyrics_dataset.csv")):
     artist = genius.search_artist(artist_name, max_songs=10)
     
     if not artist:

@@ -7,17 +7,19 @@ import lyricsgenius
 from gensim.models import FastText
 import re
 import random
+from pathlib import Path
+from django.conf import settings
 
 # FastTextモデルの読み込み
-fasttext_model_path = 'C:/Users/iniad/Documents/albumapp/myproject/lyrics_fasttext_model.model'
-fasttext_model = FastText.load(fasttext_model_path)
+fasttext_model_path = Path(settings.BASE_DIR, "myproject", "lyrics_fasttext_model.model")
+fasttext_model = FastText.load(str(fasttext_model_path))
 
 # トークナイザーと感情分析モデルの読み込み
-model_path = 'C:/Users/iniad/Documents/albumapp/myproject/sample.pt'
+model_path = Path(settings.BASE_DIR, "myproject", "sample.pt")
 checkpoint = 'cl-tohoku/bert-base-japanese-whole-word-masking'
 tokenizer = AutoTokenizer.from_pretrained(checkpoint)
 emotion_model = AutoModelForSequenceClassification.from_pretrained(checkpoint, num_labels=8)
-emotion_model.load_state_dict(torch.load(model_path, map_location=torch.device('cpu')))
+emotion_model.load_state_dict(torch.load(str(model_path), map_location=torch.device('cpu')))
 
 # Genius APIトークン
 GENIUS_API_TOKEN = 'lqkYU2BX3cEkJjeQDO_kTXXi6CyWPtdzTpchWlU9Jpbze6v8OoL7JQOZ256evxOz'
@@ -71,7 +73,8 @@ def get_lyrics_vector(lyrics):
         return np.zeros(fasttext_model.vector_size)
 
 # 類似楽曲を推薦
-def recommend_songs(input_vector, target_emotions, dataset_path='C:/Users/iniad/Documents/albumapp/myproject/lyrics_dataset.csv', num_recommendations=3):
+def recommend_songs(input_vector, target_emotions, dataset_path=Path(settings.BASE_DIR, "myproject", "lyrics_dataset.csv"), num_recommendations=3):
+    dataset_path = str(dataset_path)
     df = pd.read_csv(dataset_path)
 
     # 入力ベクトルと類似単語の計算

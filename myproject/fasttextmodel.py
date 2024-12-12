@@ -3,13 +3,18 @@ import re
 from gensim.models import FastText
 import MeCab
 from stopwordsiso import stopwords
+from pathlib import Path
+from django.conf import settings  # Djangoの設定を使用
 
 # 歌詞データセットの読み込み
-dataset_path = 'C:/Users/iniad/Documents/albumapp/myproject/lyrics_dataset.csv'
+dataset_path = Path(settings.BASE_DIR, "myproject", "lyrics_dataset.csv")
 df = pd.read_csv(dataset_path)
 
 # MeCabとNEologdの設定
-mecab = MeCab.Tagger(r'-d "C:\\Program Files\\MeCab\\dic\\ipadic" -u "C:\\Program Files\\MeCab\\dic\\NEologd\\NEologd.20200910-u.dic"')
+mecab = MeCab.Tagger(
+    rf'-d "{Path("C:/Program Files/MeCab/dic/ipadic")}" '
+    rf'-u "{Path("C:/Program Files/MeCab/dic/NEologd/NEologd.20200910-u.dic")}"'
+)
 
 # 定義済みの日本語ストップワードを取得
 stop_words = stopwords("ja")
@@ -50,4 +55,5 @@ model.build_vocab(corpus_iterable=cleaned_lyrics)
 model.train(corpus_iterable=cleaned_lyrics, total_examples=len(cleaned_lyrics), epochs=10)
 
 # 学習したモデルの保存
-model.save('lyrics_fasttext_model.model')
+model_path = Path(settings.BASE_DIR, "myproject", "lyrics_fasttext_model.model")
+model.save(str(model_path))
