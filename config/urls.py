@@ -23,7 +23,7 @@ from myproject import views as myproject_views
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('myproject/', include('myproject.urls')),
+    path('', include('myproject.urls')),
 ]
 
 if settings.DEBUG:
