@@ -22,7 +22,7 @@ emotion_model = AutoModelForSequenceClassification.from_pretrained(checkpoint, n
 emotion_model.load_state_dict(torch.load(str(model_path), map_location=torch.device('cpu')))
 
 # Genius APIトークン
-GENIUS_API_TOKEN = 'lqkYU2BX3cEkJjeQDO_kTXXi6CyWPtdzTpchWlU9Jpbze6v8OoL7JQOZ256evxOz'
+GENIUS_API_TOKEN = 'GLfZTHTAxmnBJsU9hRYrN9KxKXHPcq0A_ycDm3eVy31p2uXRPcV4tRpscvxTqrvv'
 genius = lyricsgenius.Genius(GENIUS_API_TOKEN)
 
 # 感情のラベル
