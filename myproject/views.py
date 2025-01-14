@@ -77,11 +77,11 @@ def recommend_songs(input_vector, target_emotions, dataset_path=Path(settings.BA
     dataset_path = str(dataset_path)
     df = pd.read_csv(dataset_path)
 
-    # 入力ベクトルと類似単語の計算
+    # 類似単語の計算
     similar_words = [word for word, _ in fasttext_model.wv.most_similar(input_vector, topn=10)]
     
     def contains_similar_words(lyrics, words):
-        if pd.isna(lyrics):  # 歌詞がNaNの場合はスキップ
+        if pd.isna(lyrics): 
             return False
         return any(word in lyrics for word in words)
 
@@ -95,7 +95,7 @@ def recommend_songs(input_vector, target_emotions, dataset_path=Path(settings.BA
     if len(filtered_songs) > 0:
         recommendations = filtered_songs.sample(n=min(num_recommendations, len(filtered_songs)))
     else:
-        recommendations = pd.DataFrame()  # 空のデータフレーム
+        recommendations = pd.DataFrame()  
 
     return recommendations.rename(columns={
         'Song Title': 'song_title',
